@@ -62,7 +62,7 @@ export default function ProductCatalogClient({
       filtered = filtered.filter(product => product.price <= searchFilters.maxPrice!);
     }
 
-    // Sort products
+    // Sort products - ensure deterministic sorting by adding secondary sort by code
     filtered.sort((a, b) => {
       let comparison = 0;
       
@@ -78,6 +78,11 @@ export default function ProductCatalogClient({
           break;
         default:
           comparison = a.name.localeCompare(b.name);
+      }
+      
+      // If items are equal, sort by product code for deterministic order
+      if (comparison === 0) {
+        comparison = a.code.localeCompare(b.code);
       }
       
       return searchFilters.sortOrder === 'desc' ? -comparison : comparison;
@@ -173,7 +178,7 @@ export default function ProductCatalogClient({
   }), [customer, cartItems]);
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6" suppressHydrationWarning={true}>
       {/* Filters and Cart Toggle */}
       <div className="flex flex-col lg:flex-row gap-4">
         <div className="flex-1">

@@ -50,6 +50,10 @@ export default function ProductCard({ product, onAddToCart }: ProductCardProps) 
     }
   };
 
+  const handleQuantityFocus = (e: React.FocusEvent<HTMLInputElement>) => {
+    e.target.select();
+  };
+
   const decreaseQuantity = () => {
     const newValue = Math.max(1, quantity - 1);
     setQuantity(newValue);
@@ -129,6 +133,7 @@ export default function ProductCard({ product, onAddToCart }: ProductCardProps) 
               value={quantityInput}
               onChange={(e) => handleQuantityChange(e.target.value)}
               onBlur={handleQuantityBlur}
+              onFocus={handleQuantityFocus}
               disabled={isAdding}
               className="w-16 h-8 text-center [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none"
               placeholder="1"
