@@ -2,7 +2,7 @@
 
 import { useState, useMemo, useCallback } from 'react';
 import type { Customer, ProductWithPrice, SearchFilters, CartItem } from '@/types';
-import ProductCard from './ProductCard';
+import ProductGrid from './ProductGrid';
 import ProductFilters from './ProductFilters';
 import Cart from './Cart';
 import { useToast } from '@/hooks/use-toast';
@@ -26,7 +26,6 @@ export default function ProductCatalogClient({
     sortOrder: 'asc'
   });
   const [cartItems, setCartItems] = useState<CartItem[]>([]);
-  const [showCart, setShowCart] = useState(false);
   const { toast } = useToast();
 
   // Filter and sort products
@@ -130,10 +129,6 @@ export default function ProductCatalogClient({
         return [...prev, newItem];
       }
     });
-
-    // Show cart briefly when item is added
-    setShowCart(true);
-    setTimeout(() => setShowCart(false), 2000);
   }, [toast]);
 
   const handleUpdateCartQuantity = useCallback((productCode: string, quantity: number) => {
@@ -178,79 +173,36 @@ export default function ProductCatalogClient({
   }), [customer, cartItems]);
 
   return (
-    <div className="space-y-6" suppressHydrationWarning={true}>
-      {/* Filters and Cart Toggle */}
-      <div className="flex flex-col lg:flex-row gap-4">
-        <div className="flex-1">
-          <ProductFilters
-            filters={searchFilters}
-            onFiltersChange={setSearchFilters}
-            categories={categories}
-            suppliers={suppliers}
-            productCount={filteredProducts.length}
-            totalProducts={products.length}
-          />
-        </div>
-        
-        {/* Cart Summary */}
-        <div className="lg:w-80">
-          <button
-            onClick={() => setShowCart(!showCart)}
-            className="w-full btn-primary flex items-center justify-between"
-          >
-            <span>🛒 Košarica</span>
-            <span className="bg-white/20 px-2 py-1 rounded-md">
-              {cart.totalItems} artikala - €{cart.totalValue.toFixed(2)}
-            </span>
-          </button>
-        </div>
-      </div>
+    <div className="space-y-6">
+      {/* Filters */}
+      <ProductFilters
+        filters={searchFilters}
+        onFiltersChange={setSearchFilters}
+        categories={categories}
+        suppliers={suppliers}
+        productCount={filteredProducts.length}
+        totalProducts={products.length}
+      />
 
-      {/* Layout: Products Grid + Cart Sidebar */}
-      <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
-        {/* Products Grid */}
-        <div className="lg:col-span-3">
-          {filteredProducts.length === 0 ? (
-            <div className="text-center py-12">
-              <div className="text-4xl mb-4">🔍</div>
-              <h3 className="text-lg font-medium text-gray-900 mb-2">
-                Nema pronađenih artikala
-              </h3>
-              <p className="text-gray-600">
-                Pokušajte s drugim pojmom pretrage ili resetirajte filtere.
-              </p>
-            </div>
-          ) : (
-            <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-              {filteredProducts.map((product) => (
-                <ProductCard
-                  key={product.code}
-                  product={product}
-                  onAddToCart={handleAddToCart}
-                />
-              ))}
-            </div>
-          )}
-        </div>
+      {/* Products Grid - Full Width */}
+      <ProductGrid
+        products={filteredProducts}
+        onAddToCart={handleAddToCart}
+      />
 
-        {/* Cart Sidebar */}
-        <div className={`lg:col-span-1 ${showCart || cartItems.length > 0 ? 'block' : 'hidden lg:block'}`}>
-          <div className="sticky top-6">
-            <Cart
-              cart={cart}
-              onUpdateQuantity={handleUpdateCartQuantity}
-              onRemoveItem={handleRemoveFromCart}
-              onExport={() => {
-                toast({
-                  title: "Export narudžbe",
-                  description: "Export funkcionalnost će biti implementirana uskoro!",
-                  duration: 4000,
-                });
-              }}
-            />
-          </div>
-        </div>
-      </div>
+      {/* Floating Cart */}
+      <Cart
+        cart={cart}
+        onUpdateQuantity={handleUpdateCartQuantity}
+        onRemoveItem={handleRemoveFromCart}
+        onExport={() => {
+          toast({
+            title: "Export narudžbe",
+            description: "Export funkcionalnost će biti implementirana uskoro!",
+            duration: 4000,
+          });
+        }}
+      />
     </div>
   );
 }

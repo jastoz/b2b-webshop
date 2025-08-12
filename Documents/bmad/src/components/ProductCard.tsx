@@ -76,35 +76,35 @@ export default function ProductCard({ product, onAddToCart }: ProductCardProps) 
 
   return (
     <Card className="group hover:shadow-lg transition-all duration-300 hover:-translate-y-1 h-full flex flex-col">
-      <CardHeader className="pb-4">
-        <div className="flex items-start justify-between gap-2">
-          <div className="flex-1 min-w-0">
-            <CardTitle className="text-base line-clamp-2 mb-1">
+      <CardHeader className="pb-3 h-24">
+        <div className="h-full flex flex-col">
+          <div className="flex-1">
+            <CardTitle className="text-base line-clamp-2 leading-tight mb-1">
               {product.name}
             </CardTitle>
             {product.altName && (
-              <CardDescription className="text-xs mb-2">
+              <CardDescription className="text-xs">
                 {product.altName}
               </CardDescription>
             )}
           </div>
-          <Badge variant="secondary" className="text-xs shrink-0">
+          <Badge variant="secondary" className="text-xs w-fit mt-auto">
             {product.category.subcategoryName}
           </Badge>
         </div>
       </CardHeader>
 
-      <CardContent className="flex-1 space-y-4">
+      <CardContent className="flex-1 space-y-3">
         {/* Product Details */}
-        <div className="space-y-2">
-          <div className="flex justify-between items-center text-sm">
-            <span className="text-muted-foreground">Jedinica:</span>
+        <div className="h-8 flex items-center">
+          <div className="flex justify-between items-center text-xs w-full">
+            <span className="text-muted-foreground">Jed.:</span>
             <span className="font-medium">{product.unit}</span>
           </div>
         </div>
 
         {/* Price Section */}
-        <div className="bg-primary/5 rounded-lg p-4 text-center border border-primary/10">
+        <div className="bg-primary/5 rounded-lg p-3 text-center border border-primary/10 h-16 flex flex-col justify-center">
           <div className="text-xl font-bold text-primary mb-1">
             {formatPrice(product.price)}
           </div>
@@ -114,7 +114,7 @@ export default function ProductCard({ product, onAddToCart }: ProductCardProps) 
         </div>
 
         {/* Quantity Selector */}
-        <div className="space-y-2">
+        <div className="space-y-1 h-16">
           <label className="text-sm font-medium text-muted-foreground">
             Količina:
           </label>
@@ -161,17 +161,17 @@ export default function ProductCard({ product, onAddToCart }: ProductCardProps) 
         )}
       </CardContent>
 
-      <CardFooter className="flex-col space-y-3 pt-4">
+      <CardFooter className="flex-col space-y-2 pt-3">
         {/* Add to Cart Button */}
         <Button
           onClick={handleAddToCart}
           disabled={isAdding}
-          className={`w-full transition-all duration-300 ${
+          className={`w-full transition-all duration-300 text-xs ${
             isAdding 
               ? 'bg-green-600 hover:bg-green-700 text-white' 
               : ''
           }`}
-          size="default"
+          size="sm"
         >
           {isAdding ? (
             <>
@@ -180,8 +180,8 @@ export default function ProductCard({ product, onAddToCart }: ProductCardProps) 
             </>
           ) : (
             <>
-              <ShoppingCart className="mr-2 h-4 w-4" />
-              Dodaj u košaricu
+              <ShoppingCart className="mr-1 h-3 w-3" />
+              U košaricu
             </>
           )}
         </Button>

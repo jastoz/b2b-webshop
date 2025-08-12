@@ -1,0 +1,4697 @@
+[
+  {
+    "id": "21",
+    "name": "HOTEL MEDENA - SEGET DONJI",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razni preh pr 2025",
+        "dateFrom": "2024-03-01",
+        "dateTo": "2025-12-30",
+        "paymentTerms": 45,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 4,
+        "name": "IREKS HOTELI",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 351
+  },
+  {
+    "id": "29",
+    "name": "DJE�JI VRTI� �IBENSKA MASLINA",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "RAZNI PREH.PR, 2025",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 64
+  },
+  {
+    "id": "34",
+    "name": "MANO MANO d.o.o",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-05-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 46
+  },
+  {
+    "id": "51",
+    "name": "CENTAR FRA. ANTE SEKELEZ",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "RAZNA 2025/2026",
+        "dateFrom": "2025-06-04",
+        "dateTo": "2026-06-03",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 114
+  },
+  {
+    "id": "55",
+    "name": "DOM ZA ODRASLE OSOBE BLATO",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Proizvodi za njegu 2024/2025",
+        "dateFrom": "2024-10-16",
+        "dateTo": "2025-10-16",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "Razno 2024/2025",
+        "dateFrom": "2024-11-28",
+        "dateTo": "2025-11-28",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 130
+  },
+  {
+    "id": "56",
+    "name": "DOM ZA STARIJE OSOBE VELA LUKA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Razni prehrambeni proizvodi",
+        "dateFrom": "2025-04-17",
+        "dateTo": "2026-02-28",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 95
+  },
+  {
+    "id": "78",
+    "name": "KLINI�KI BOLNI�KI CENTAR SPLIT",
+    "contracts": [
+      {
+        "id": 10,
+        "name": "voda, konzervirano vip",
+        "dateFrom": "2024-09-30",
+        "dateTo": "2025-09-30",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 7,
+        "name": "Proizvodi od �itarica,marmelada,su�eno vo�e,su�eno povr�e,bra�no",
+        "dateFrom": "2024-09-30",
+        "dateTo": "2025-09-30",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 8,
+        "name": "Smrznuto vo�e,umaci,tjestenina,dodaci jelima, za�ini,�okolada, puding kakao",
+        "dateFrom": "2024-09-30",
+        "dateTo": "2025-09-30",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 9,
+        "name": "Margarin, �aj",
+        "dateFrom": "2024-09-30",
+        "dateTo": "2025-09-30",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 96
+  },
+  {
+    "id": "80",
+    "name": "DOM ZA STARIJE OSOBE KNIN",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "UGOVOR o opskrbi Doma svje�im povr�em i vo�em u 2025. godini",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "Ostali prehrambeni proizvodi 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 2,
+        "name": "potro�ni materijal",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 191
+  },
+  {
+    "id": "82",
+    "name": "OP�A BOLNICA - ZADAR",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "RAZNA PREHRANA 2024/2025",
+        "dateFrom": "2024-12-16",
+        "dateTo": "2025-12-16",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 6,
+        "name": "preh.proizv. JAJA",
+        "dateFrom": "2024-09-19",
+        "dateTo": "2025-09-19",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 203
+  },
+  {
+    "id": "83",
+    "name": "DJE�JI VRTI� GRIGOR VITEZ",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna prehrana",
+        "dateFrom": "2024-01-30",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 138
+  },
+  {
+    "id": "86",
+    "name": "OP�A BOLNICA - �IBENIK",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razni preh pr gr. 4,7,10,8",
+        "dateFrom": "2024-10-03",
+        "dateTo": "2025-10-03",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 119
+  },
+  {
+    "id": "87",
+    "name": "CENTAR ZA PR. USL. U ZAJEDNICI MAESTRAL",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Tender / proizvodi za �i��enje, poliranje i ostale ku�ne potrep�tine",
+        "dateFrom": "2024-09-17",
+        "dateTo": "2025-09-19",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "higijena",
+        "dateFrom": "2024-09-17",
+        "dateTo": "2025-09-17",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 3,
+        "name": "vo�e i povr�e",
+        "dateFrom": "2025-07-01",
+        "dateTo": "2026-07-01",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "MASTI I ULJA",
+        "dateFrom": "2025-04-25",
+        "dateTo": "2026-04-25",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 6,
+        "name": "JAJA",
+        "dateFrom": "2025-04-25",
+        "dateTo": "2026-04-25",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "sve",
+        "dateFrom": "2024-07-20",
+        "dateTo": "2025-07-25",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 346
+  },
+  {
+    "id": "96",
+    "name": "DJE�JI VRTI� CVR�AK KNIN",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna prehrana",
+        "dateFrom": "2025-03-04",
+        "dateTo": "2026-03-04",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 89
+  },
+  {
+    "id": "101",
+    "name": "KALOS",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "Zamrznuta riba, riblji fileti i ostalo riblje meso",
+        "dateFrom": "2025-04-01",
+        "dateTo": "2026-03-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "razni prehrambeni proizvodi 2025",
+        "dateFrom": "2025-03-17",
+        "dateTo": "2026-03-17",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "JAJA 2025",
+        "dateFrom": "2025-04-01",
+        "dateTo": "2026-04-01",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 137
+  },
+  {
+    "id": "112",
+    "name": "PANEX d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 3,
+        "name": "Arome",
+        "dateFrom": "2024-02-15",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 129
+  },
+  {
+    "id": "121",
+    "name": "APARTMANI MEDENA d.d.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna prehrana 2022",
+        "dateFrom": "2021-03-01",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 351
+  },
+  {
+    "id": "123",
+    "name": "INTERMOD d.o.o.",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "Razna prehrana 2025",
+        "dateFrom": "2021-03-01",
+        "dateTo": "2025-10-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-11-08",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 370
+  },
+  {
+    "id": "125",
+    "name": "OP�A BOLNICA - DUBROVNIK",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "RAZNI PREH.PROIZVODI",
+        "dateFrom": "2024-10-22",
+        "dateTo": "2025-10-22",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 6,
+        "name": "nabava svje�ih jaja",
+        "dateFrom": "2024-10-02",
+        "dateTo": "2025-10-02",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 139
+  },
+  {
+    "id": "131",
+    "name": "DABALO d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Novo 5%",
+        "dateFrom": "2021-11-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 550
+  },
+  {
+    "id": "144",
+    "name": "USTANOVA DES - SPLIT",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "TJESTENINA,JAJA,ZA�INI I OSTALO 2025",
+        "dateFrom": "2025-05-07",
+        "dateTo": "2025-11-07",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "ULJE 2024/2025",
+        "dateFrom": "2025-05-07",
+        "dateTo": "2025-11-07",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "KONZERVIRANA HRANA 2024/2025",
+        "dateFrom": "2025-05-07",
+        "dateTo": "2025-11-07",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 47
+  },
+  {
+    "id": "145",
+    "name": "DUJMEX d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-08-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2025-03-18",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 589
+  },
+  {
+    "id": "153",
+    "name": "PLOVPUT d.o.o. Split",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "HRANA I PI�E",
+        "dateFrom": "2024-06-17",
+        "dateTo": "2025-08-01",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 31
+  },
+  {
+    "id": "168",
+    "name": "STUDENTSKI CENTAR - SPLIT",
+    "contracts": [
+      {
+        "id": 21,
+        "name": "biskviti 2025",
+        "dateFrom": "2025-05-31",
+        "dateTo": "2026-05-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 19,
+        "name": "OSTALI PROIZVODI OD �ITARICA",
+        "dateFrom": "2025-04-15",
+        "dateTo": "2026-04-15",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 18,
+        "name": "BEZGLUTENSKA TJESTENINA",
+        "dateFrom": "2025-04-15",
+        "dateTo": "2026-04-15",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 16,
+        "name": "SMJESE ZA SLASTI�ARSTVO",
+        "dateFrom": "2025-05-08",
+        "dateTo": "2026-05-07",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 15,
+        "name": "PROIZVODI ZA SLASTI�ARSTVO",
+        "dateFrom": "2025-05-08",
+        "dateTo": "2026-05-07",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 14,
+        "name": "Biskvit s aromom naran�e 2025",
+        "dateFrom": "2025-06-25",
+        "dateTo": "2026-06-24",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 12,
+        "name": "SU�ENA TJESTENINA I MLINCI",
+        "dateFrom": "2025-04-15",
+        "dateTo": "2026-04-15",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 25,
+        "name": "KONZERVIRANO VIP,Konz povr�e, grupa 2",
+        "dateFrom": "2025-04-29",
+        "dateTo": "2026-04-28",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 8,
+        "name": "Aromati�no bilje i za�ini 2025",
+        "dateFrom": "2025-04-29",
+        "dateTo": "2026-04-29",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 7,
+        "name": "�e�er i srodni proizvodi 2025",
+        "dateFrom": "2025-05-09",
+        "dateTo": "2026-05-08",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "ULJE I PROIZVODI OD ULJA",
+        "dateFrom": "2024-11-03",
+        "dateTo": "2025-11-02",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 32,
+        "name": "smjesa za proizvodnju fritula 2025",
+        "dateFrom": "2025-05-19",
+        "dateTo": "2026-05-18",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 31,
+        "name": "RI�A 2025",
+        "dateFrom": "2025-05-09",
+        "dateTo": "2026-05-09",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 30,
+        "name": "TOTRILLE",
+        "dateFrom": "2025-05-09",
+        "dateTo": "2026-05-09",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "MJE�AVINA ZA PROIZVODNJU PALA�INKA",
+        "dateFrom": "2024-11-05",
+        "dateTo": "2025-11-05",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 26,
+        "name": "�okolade 2025",
+        "dateFrom": "2025-05-19",
+        "dateTo": "2026-05-18",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 140
+  },
+  {
+    "id": "169",
+    "name": "ZATVOR U SPLITU",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Prera�eno vip",
+        "dateFrom": "2025-02-28",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "Ugovor o nabavi ulja i masti",
+        "dateFrom": "2025-02-28",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 38
+  },
+  {
+    "id": "177",
+    "name": "CRO GO - SOLIN",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 296
+  },
+  {
+    "id": "178",
+    "name": "DJE�JI VRTI� RADOST ZADAR",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Osnovni prehrambeni proizvodi",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "Razni prehrambeni proizvodi",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "Ulja",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 134
+  },
+  {
+    "id": "180",
+    "name": "U�ENI�KI DOM - SPLIT",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Hot program 2024",
+        "dateFrom": "2024-06-11",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Razno 2024",
+        "dateFrom": "2024-06-11",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2024-06-11",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 159
+  },
+  {
+    "id": "183",
+    "name": "DOM ZA STARIJE I NEMO�NE OSOBE SPLIT",
+    "contracts": [
+      {
+        "id": 10,
+        "name": "Svje�a jaja za 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 9,
+        "name": "Ulja biljnog i �ivotinjskog porijekla za 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 8,
+        "name": "SVJE�E VO�E",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 7,
+        "name": "Ostali prehrambeni proizvodi 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "Alkoholna pi�a 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "svje�e povr�e 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "Riba 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Zenta - prera�eno vo�e i povr�e",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 11,
+        "name": "Ugovor o nabavi tjestenine za 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 183
+  },
+  {
+    "id": "193",
+    "name": "IMENJAK d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2021-04-21",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 55
+  },
+  {
+    "id": "200",
+    "name": "MEDORA HOTELI I LJETOVALI�TA d.d.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "BARBARA DEKOR 2022",
+        "dateFrom": "2022-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 15,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 15,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "RAZNA 2025",
+        "dateFrom": "2024-03-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 15,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 417
+  },
+  {
+    "id": "208",
+    "name": "Centar za rehabilitaciju Samaritanac",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razni prehrambeni 2024/25",
+        "dateFrom": "2024-11-22",
+        "dateTo": "2025-11-22",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Svje�e vo�e i povr�e 2024/2025",
+        "dateFrom": "2024-11-22",
+        "dateTo": "2025-11-22",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 173
+  },
+  {
+    "id": "211",
+    "name": "BIOKOVKA - SPECIJALNA BOLNICA",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "razna prehrana 2025",
+        "dateFrom": "2025-03-24",
+        "dateTo": "2026-03-24",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 163
+  },
+  {
+    "id": "220",
+    "name": "�ENSKI �A�KI DOM - SPLIT",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Svje�e vo�e i povr�e",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "Razna prehrana 2025",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 4,
+        "name": "SUHOMESNATO 2025",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "Zamrznuto 2025",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 237
+  },
+  {
+    "id": "230",
+    "name": "PREMIS d.o.o.- MAKARSKA",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-08-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 296
+  },
+  {
+    "id": "231",
+    "name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI SPLIT",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "Suhomesnato",
+        "dateFrom": "2024-10-01",
+        "dateTo": "2025-09-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "Sredstva za higijenu",
+        "dateFrom": "2024-10-01",
+        "dateTo": "2025-09-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "svje�e povr�e",
+        "dateFrom": "2024-10-01",
+        "dateTo": "2025-09-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "Razni prehrambeni 2024/2025",
+        "dateFrom": "2024-10-01",
+        "dateTo": "2025-09-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 184
+  },
+  {
+    "id": "234",
+    "name": "DOM ZA STAR. I NEM. LOVRET",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Ostale namirnice 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 74
+  },
+  {
+    "id": "243",
+    "name": "MAK SAT d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2025-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2025-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "250",
+    "name": "MU�KI U�ENI�KI DOM DUBROVNIK",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "OSTALE NAMIRNICE 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 76
+  },
+  {
+    "id": "254",
+    "name": "�KANJATA d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 589
+  },
+  {
+    "id": "275",
+    "name": "DOM ZA STAR. I NEM. OSOBE ZADAR",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "RAZNA PREHRNA, DOM ZADAR, PREKO",
+        "dateFrom": "2025-01-15",
+        "dateTo": "2026-01-15",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "DOM ZADAR, RAZNA PREHRANA 2025, DOM ZADAR",
+        "dateFrom": "2025-01-15",
+        "dateTo": "2026-01-15",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "RAZNA PREHRANA,DOM ZADAR,SALI",
+        "dateFrom": "2025-01-15",
+        "dateTo": "2026-01-15",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "TENDER SLATKI�I",
+        "dateFrom": "2025-03-27",
+        "dateTo": "2026-03-27",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 156
+  },
+  {
+    "id": "276",
+    "name": "DOM ZA ODRASLE SVETI FRANE",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razni prehrambeni, 2025",
+        "dateFrom": "2025-01-30",
+        "dateTo": "2026-01-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 88
+  },
+  {
+    "id": "277",
+    "name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI ZEMUNIK",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Mat za �i��",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "Svje�a jaja 2024",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "sredstva za higijenu i njegu",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "RAZNA PREHRANA 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 159
+  },
+  {
+    "id": "278",
+    "name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI ZADAR",
+    "contracts": [
+      {
+        "id": 7,
+        "name": "tjest, svj vo�, svjj pov, su�eno i konz v, konz pov i za�ini, sokovi",
+        "dateFrom": "2025-04-11",
+        "dateTo": "2026-04-11",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 144
+  },
+  {
+    "id": "281",
+    "name": "SESTRE FRANJEVKE OD BEZGRE�NE - PODSTRANA",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "provjeri PC",
+        "dateFrom": "2020-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 52
+  },
+  {
+    "id": "283",
+    "name": "JURAJ BONA�I",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "POVR�E 2025",
+        "dateFrom": "2025-03-06",
+        "dateTo": "2026-03-05",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 21
+  },
+  {
+    "id": "285",
+    "name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI MIR",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Osnovni preh. proizvodi",
+        "dateFrom": "2024-08-01",
+        "dateTo": "2025-07-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "Vo�e i povr�e",
+        "dateFrom": "2024-08-01",
+        "dateTo": "2025-07-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 163
+  },
+  {
+    "id": "292",
+    "name": "ZATVOR U �IBENIKU",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "RAZNA PREHRANA 2025",
+        "dateFrom": "2025-02-01",
+        "dateTo": "2026-02-01",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 81
+  },
+  {
+    "id": "313",
+    "name": "VIS d.d.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "IREKS HOTELI",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 288
+  },
+  {
+    "id": "340",
+    "name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI METKOVI�",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna prehrana 2024",
+        "dateFrom": "2024-07-24",
+        "dateTo": "2025-07-24",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 169
+  },
+  {
+    "id": "347",
+    "name": "PEKARSKI OBRT JADRAN",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "355",
+    "name": "NARONA IMPEX d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2016-09-23",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 15,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 15,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 6,
+        "name": "",
+        "dateFrom": "2022-08-23",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 15,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 440
+  },
+  {
+    "id": "396",
+    "name": "�IMI� COMPANY d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 271
+  },
+  {
+    "id": "577",
+    "name": "HOTELI SVPETRVS d.d.",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "Ireks",
+        "dateFrom": "2024-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-07-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 297
+  },
+  {
+    "id": "659",
+    "name": "HOTELI ZADAR d.d.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 15,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 6
+  },
+  {
+    "id": "817",
+    "name": "DJE�JI VRTI� RADOST SPLIT",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna prehrana 2024,drugi pojedina�ni ugovor",
+        "dateFrom": "2024-01-01",
+        "dateTo": "2026-01-29",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 99
+  },
+  {
+    "id": "818",
+    "name": "DJE�JI VRTI� CVIT MEDITERANA",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna prehrana",
+        "dateFrom": "2024-01-30",
+        "dateTo": "2026-01-30",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 94
+  },
+  {
+    "id": "819",
+    "name": "DJE�JI VRTI� MARJAN",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Razna prehrana 2024,drugi pojedina�ni ugovor",
+        "dateFrom": "2024-01-01",
+        "dateTo": "2026-01-29",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 122
+  },
+  {
+    "id": "826",
+    "name": "DOM ZA STAR. I NEM. OSOBE VIS",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "SUHO I KONZERVIRANO VO�E I POVR�E",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 5,
+        "name": "Higijenski materijal",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 2,
+        "name": "NABAVA SUHOMESNATIH PROIZVODA",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 10,
+        "name": "Vo�e i povr�e vis, izmjenjivo svakih 7 dana",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 1,
+        "name": "NABAVA SMRZNUTIH PROIZVIDA",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 8,
+        "name": "Ostali prehrambeni proizvodi 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 9,
+        "name": "Sredstva za �i��enje i odr�avanje",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 267
+  },
+  {
+    "id": "847",
+    "name": "ZATVOR U ZADRU",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Razna prehrana 2025",
+        "dateFrom": "2025-01-13",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "Smrznuta i konzervirana riba 2025-POSLANO NA POTPIS",
+        "dateFrom": "2025-01-13",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 68
+  },
+  {
+    "id": "856",
+    "name": "LEKAJ d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-11-28",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "",
+        "dateFrom": "2023-05-29",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 575
+  },
+  {
+    "id": "894",
+    "name": "AS PANINO d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "908",
+    "name": "PEKARSKI OBRT MARCELLA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "",
+        "dateFrom": "2024-11-04",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "943",
+    "name": "USTANOVA NONE - SEGET VRANJICA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Sve, iz prometa 2019-2020",
+        "dateFrom": "2020-01-01",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 15,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 80
+  },
+  {
+    "id": "991",
+    "name": "ZATVOR U GOSPI�U",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Razna prehrana 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 80
+  },
+  {
+    "id": "1020",
+    "name": "GRAND HOTEL LAV d.d.",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "Razno",
+        "dateFrom": "2022-05-01",
+        "dateTo": "2026-05-31",
+        "paymentTerms": 10,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 39
+  },
+  {
+    "id": "1031",
+    "name": "FAST FOOD GYROS",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "novo 2021",
+        "dateFrom": "2021-11-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2024-08-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 313
+  },
+  {
+    "id": "1043",
+    "name": "BRID d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 7,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 175
+  },
+  {
+    "id": "1053",
+    "name": "KR�INA d.o.o.",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-11-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1062",
+    "name": "APFEL d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "ireks 2022",
+        "dateFrom": "2022-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "RAZNA.2025",
+        "dateFrom": "2025-07-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-08-23",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 307
+  },
+  {
+    "id": "1064",
+    "name": "BRETANIDE RESORT d.o.o.",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2024-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "ireks bretanida",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 471
+  },
+  {
+    "id": "1102",
+    "name": "DOM ZA STARIJE I NEMO�NE OSMAJKA MARIJA PETKOVI�",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "Razni prehrambeni proizvodi 2025",
+        "dateFrom": "2025-05-21",
+        "dateTo": "2026-05-21",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 99
+  },
+  {
+    "id": "1184",
+    "name": "DUO PEKA BIOGRAD d.o.o.",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2023-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1187",
+    "name": "PEKARNA LAURA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2024-11-04",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "1201",
+    "name": "OP�A I VETERANSKA BOLNICA HRVATSKI PONOS",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razni prehrambeni 2024/2025",
+        "dateFrom": "2024-11-01",
+        "dateTo": "2025-11-01",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Smrznute namirnice 2024/2025",
+        "dateFrom": "2024-11-01",
+        "dateTo": "2025-11-01",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "Svje�e VIP 2024/2025",
+        "dateFrom": "2024-11-01",
+        "dateTo": "2025-11-01",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 185
+  },
+  {
+    "id": "1205",
+    "name": "DJE�JI VRTI� DUGI RAT",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-05-01",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "vo�e i povr�e",
+        "dateFrom": "2018-01-01",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 207
+  },
+  {
+    "id": "1222",
+    "name": "UG.OBRT SLASTI�ARNICA KOD ANE",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1246",
+    "name": "PERT d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2020-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 56
+  },
+  {
+    "id": "1302",
+    "name": "HOTEL HVAR d.o.o.",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "IREKS NOVO, 2%",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 266
+  },
+  {
+    "id": "1320",
+    "name": "P.T.O. MLIN",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "1357",
+    "name": "SREDNJO�KOLSKI �A�KI DOM ZADAR",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "OSTALI PREHRAMBENI PROIZVODI 2024/2025",
+        "dateFrom": "2024-10-25",
+        "dateTo": "2025-10-25",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 74
+  },
+  {
+    "id": "1362",
+    "name": "NIKOLAC d.o.o",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-08-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-10-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 641
+  },
+  {
+    "id": "1372",
+    "name": "STELLA MEDITERRANEA D.O.O. proizvodnja i trgovina",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "IREKS 2022",
+        "dateFrom": "2022-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1394",
+    "name": "DOM ZA STARIJE OSOBE LI�KO-SENJSKE �UPANIJE",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Svje�e vo�e i povr�e 2025",
+        "dateFrom": "2025-03-20",
+        "dateTo": "2026-03-20",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Krumpir 2025",
+        "dateFrom": "2025-03-14",
+        "dateTo": "2026-03-14",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "RAZNA PREHRANA 2025",
+        "dateFrom": "2025-03-25",
+        "dateTo": "2026-03-25",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 141
+  },
+  {
+    "id": "1418",
+    "name": "DJE�JI VRTI� BILI CVITAK",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "razna prehrana 2025",
+        "dateFrom": "2025-04-03",
+        "dateTo": "2026-04-03",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 78
+  },
+  {
+    "id": "1446",
+    "name": "DOM ZA STARIJE OSOBE OKLAJ",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna 2024",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "MESNE PRERA�EVINE I SUHOMESNATI PROIZVODI",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 163
+  },
+  {
+    "id": "1457",
+    "name": "BABI� PEKARA d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "ireks od 7/2022",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2024-11-04",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 361
+  },
+  {
+    "id": "1483",
+    "name": "BONACA DUGI OTOK d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-01-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1495",
+    "name": "P.T.O. DALMACIJA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1496",
+    "name": "BIBERONS d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-08-23",
+        "dateTo": "2025-08-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-08-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-11-14",
+        "dateTo": "2025-08-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 575
+  },
+  {
+    "id": "1508",
+    "name": "DOM ZA STAR. I NEM. OSOBE CVJETNI DOM",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "Razni prehrambeni proizvodi 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 72
+  },
+  {
+    "id": "1515",
+    "name": "DJE�JI VRTI� PAHULJICA",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "RAZNI PREHRAMBENI PROIZVODI",
+        "dateFrom": "2023-12-04",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 2,
+        "name": "svje�e vip",
+        "dateFrom": "2023-08-02",
+        "dateTo": "2025-07-30",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 140
+  },
+  {
+    "id": "1518",
+    "name": "VIKTOR ZADAR d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2024-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 564
+  },
+  {
+    "id": "1701",
+    "name": "ASTRUM d.o.o.",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "po ponudi za 2025",
+        "dateFrom": "2021-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 132
+  },
+  {
+    "id": "1722",
+    "name": "P.T.O. LUIGGI",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 560
+  },
+  {
+    "id": "1761",
+    "name": "P.O. BELAFU�A",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "1773",
+    "name": "KRALJICA MIRA d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 589
+  },
+  {
+    "id": "1781",
+    "name": "HOTEL SPLIT d.d.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2014-01-01",
+        "dateTo": "2026-04-30",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 29
+  },
+  {
+    "id": "1788",
+    "name": "PEKARNA STANOVI",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-09-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1809",
+    "name": "PTO TES-CO",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2024-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1817",
+    "name": "PEKARNA MAGISTRALA d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "1825",
+    "name": "TU�AK d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-10-20",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-02-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1826",
+    "name": "PEKARA ZATON",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-11-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1828",
+    "name": "T.O. KOBA�",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-11-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "1829",
+    "name": "REGATA d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Nov.21",
+        "dateFrom": "2021-11-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 266
+  },
+  {
+    "id": "1830",
+    "name": "CVITANOVI� d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Promet + ponuda",
+        "dateFrom": "2020-01-01",
+        "dateTo": "2025-08-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 18
+  },
+  {
+    "id": "1831",
+    "name": "PEKARA FINO I FRI�KO",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-11-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-06-28",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1832",
+    "name": "RAJMONDA d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1834",
+    "name": "U.O. SPEEDY",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1840",
+    "name": "FRIGUS GRUPA d.o.o.",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "1898",
+    "name": "LEONORA d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1926",
+    "name": "NON STOP obrt za proizvodnju i tgovinu",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1928",
+    "name": "UO ZDRAVLJAK",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1933",
+    "name": "KLAS d.o.o. 2013",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-10-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1936",
+    "name": "PEKARNA KLAS",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-10-24",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "1946",
+    "name": "OBRT ZA PROIZ.PEK.PROIZVODA BIOKOVO II",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-05-29",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-05-29",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1969",
+    "name": "VBLEONA j.d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1976",
+    "name": "PEKARA LEONARDO d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "1997",
+    "name": "ZETA TRGOVINA d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2006",
+    "name": "ARGOLA d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Iz prometa",
+        "dateFrom": "2021-04-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 61
+  },
+  {
+    "id": "2024",
+    "name": "SEBASTIAN obrt za proiz. i trgovinu",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-02-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2032",
+    "name": "GRICKO d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Novo, ispravno prema ponudama",
+        "dateFrom": "2020-01-01",
+        "dateTo": "2026-02-28",
+        "paymentTerms": 0,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 54
+  },
+  {
+    "id": "2034",
+    "name": "PEKARNICA LATICA d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Novo 11mj",
+        "dateFrom": "2021-11-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 3
+  },
+  {
+    "id": "2062",
+    "name": "DJE�JI VRTI�  VIS  VIS",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razno 2024",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 164
+  },
+  {
+    "id": "2068",
+    "name": "CENTAR ZA ODGOJ I OBRAZOVANJE �UBI�EVAC",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "MLIJEKO I MLIJE�NI PROIZVODA",
+        "dateFrom": "2025-04-11",
+        "dateTo": "2026-04-11",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "konzervirano vo�e i povr�e 2025",
+        "dateFrom": "2025-04-11",
+        "dateTo": "2026-04-11",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 41
+  },
+  {
+    "id": "2080",
+    "name": "AROMA 3",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "ireks",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-08-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2089",
+    "name": "UGOSTITELJSKI OBRT SPECIJAL",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Novo 11.2021",
+        "dateFrom": "2021-11-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-02-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "2111",
+    "name": "HOTELI �IVOGO��E d.d.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Ireks",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Razno 2024",
+        "dateFrom": "2022-05-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "BARBARA DEKOR 2022",
+        "dateFrom": "2022-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 368
+  },
+  {
+    "id": "2114",
+    "name": "MINI PEKARNA TINA",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2024-02-06",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "",
+        "dateFrom": "2023-05-29",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 567
+  },
+  {
+    "id": "2122",
+    "name": "MARE VENTUS d.o.o. TU�EPI",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 288
+  },
+  {
+    "id": "2123",
+    "name": "ANDRO INTERNACIONAL D.O.O. OMI�",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "2025",
+        "dateFrom": "2025-06-16",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 7,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2026-05-30",
+        "paymentTerms": 7,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 737
+  },
+  {
+    "id": "2128",
+    "name": "CRVENA LUKA d.d.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2025-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Crvena luka- po ponudi",
+        "dateFrom": "2025-06-18",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 735
+  },
+  {
+    "id": "2132",
+    "name": "DIDOVO ZLATO d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Didovo zlato Novo 2020",
+        "dateFrom": "2020-01-01",
+        "dateTo": "2026-02-25",
+        "paymentTerms": 0,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 28
+  },
+  {
+    "id": "2140",
+    "name": "PROIZ.I PRODAJA KRUHA PEKARNICA GAJAC",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-06-19",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2149",
+    "name": "OBJEKT BRZE PREHRANE ZRINSKI",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2156",
+    "name": "MEDITERAN Obrt za ug. i pr.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2025-06-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2025-06-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 589
+  },
+  {
+    "id": "2160",
+    "name": "PEKARNA MARIJA d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-05-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2162",
+    "name": "PEKARA BOL OBRT ZA PROIZ.I TRGOVINU",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-07-11",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-07-11",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2243",
+    "name": "PEKARNA HODAJ j.d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-12-05",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2283",
+    "name": "HRSTI� - Proiz.trg. obrt- vl.Nikola Hrsti�",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-12-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 10,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-11-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 10,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 4,
+        "name": "aROME",
+        "dateFrom": "2024-02-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 10,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 574
+  },
+  {
+    "id": "2291",
+    "name": "PEKARNA PEKA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2024-09-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2295",
+    "name": "PZ STOLISNIK",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-12-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-12-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2340",
+    "name": "PEKARNICA PAG",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-03-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2343",
+    "name": "SLASTI�ARNA CALIMERO",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2344",
+    "name": "PEKARA JADRAN j. d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2357",
+    "name": "UGOSTITELJSKI OBRT MR.CHOCO",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-05-16",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-05-16",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 589
+  },
+  {
+    "id": "2376",
+    "name": "CENTAR ZA REHABILITACIJU SV. FILIP I JAKOV",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Ostali prehrambeni proizvodi 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 109
+  },
+  {
+    "id": "2377",
+    "name": "PEKARA VERONIKA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-06-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-06-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2380",
+    "name": "PEKARA PRVI�",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-06-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-06-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2392",
+    "name": "DOM ZA STARIJE I NEMO�NE OSOBE KONAVLE",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Prera�eno  vo�e i povr�e",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Ostali proizvodi",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 150
+  },
+  {
+    "id": "2410",
+    "name": "DJE�JI VRTI� SMILJE",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Povr�e 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "TUNA  2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "RAZNI PREHRAMBENI 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 117
+  },
+  {
+    "id": "2424",
+    "name": "Centar za rehabilitaciju Josipovac-Mlini",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Ostali prehrambeni proizvodi EN-9-24",
+        "dateFrom": "2024-09-01",
+        "dateTo": "2025-08-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Smrznuto vo�e i povr�e EN - 8-24",
+        "dateFrom": "2024-09-01",
+        "dateTo": "2025-08-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 151
+  },
+  {
+    "id": "2433",
+    "name": "Obrt za ugostiteljstvo WINNY",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-02-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-02-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2696",
+    "name": "SOL TOURISM d.o.o.",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 296
+  },
+  {
+    "id": "2705",
+    "name": "RAFAEL j . d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "2759",
+    "name": "HOTEL LUKA d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 288
+  },
+  {
+    "id": "2761",
+    "name": "Hotels Adriatic Asset Company d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-03-03",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 115
+  },
+  {
+    "id": "2772",
+    "name": "TUNI� j.d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2025-02-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 296
+  },
+  {
+    "id": "2780",
+    "name": "PEKARSKI OBRT AURELIJA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2790",
+    "name": "MILI & SUZI d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-11-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2024-10-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2806",
+    "name": "PLETENICA d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-08-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-08-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "2826",
+    "name": "STUDENTSKI CENTAR �IBENIK",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "RAZNI PREHRAMBENI PROIZVODI",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "ULJA, MASTI I PROIZVODI OD ULJA",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 75
+  },
+  {
+    "id": "2827",
+    "name": "AGENCIJA ZA STUDENTSKI STANDARD",
+    "contracts": [
+      {
+        "id": 5,
+        "name": "PRERA�ENO POVR�E I VO�E",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "SU�ENA TJESTENINA",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "razna prehrana",
+        "dateFrom": "2025-01-09",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 7,
+        "name": "MJE�AVINA ZA SLASTICE",
+        "dateFrom": "2024-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 1,
+        "name": "Smrznuti proizvodi od krumpira 2025",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 143
+  },
+  {
+    "id": "3011",
+    "name": "P.T.O.VULETA",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-02-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-02-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3041",
+    "name": "U.O.TROPIC",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2023-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 589
+  },
+  {
+    "id": "3042",
+    "name": "PEKARNA LJUBI� j.d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-11-14",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "3055",
+    "name": "KRONI PEKARA j.d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-07-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-07-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3060",
+    "name": "COR AUREUM",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "Ponuda 2020",
+        "dateFrom": "2020-01-01",
+        "dateTo": "2025-07-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 113
+  },
+  {
+    "id": "3063",
+    "name": "ZADAR DALMATINKA  d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-07-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-07-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3107",
+    "name": "PEKARNICA GALEB",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 74,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3110",
+    "name": "HAJDUK I,obrt za ugostiteljstvo,vl.Bujar Ramadani",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-05-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-05-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3117",
+    "name": "SREDNJA �KOLA BOL",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "sve�e vo�e i povr�e 2025",
+        "dateFrom": "2023-02-15",
+        "dateTo": "2026-02-20",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "Mlijeko i mlije�ni proizvodi 2025",
+        "dateFrom": "2025-02-01",
+        "dateTo": "2026-02-25",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "RAZNA PREHRANA,2025",
+        "dateFrom": "2023-02-15",
+        "dateTo": "2026-02-25",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 85
+  },
+  {
+    "id": "3118",
+    "name": "OSNOVNA �KOLA �NJAN-PAZDIGRAD",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razi prehrambeni i bezakohola pi�a  2025",
+        "dateFrom": "2025-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 165
+  },
+  {
+    "id": "3144",
+    "name": "NON STOP  obrt za proiz. i trgovinu",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3146",
+    "name": "PEKARA SUKO�AN d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2023-05-29",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 561
+  },
+  {
+    "id": "3150",
+    "name": "PEKARA TROMILJA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3175",
+    "name": "PEKARA SEBASTIJAN d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-04-16",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-04-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3213",
+    "name": "IMPERIAL RIVIERA d.d.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-06-20",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "BARBARA DEKOR 2022",
+        "dateFrom": "2023-06-20",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "",
+        "dateFrom": "2023-06-20",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 347
+  },
+  {
+    "id": "3214",
+    "name": "PEKARA NOVALJA",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2024-11-04",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2023-03-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3218",
+    "name": "UGOSTITELJSKI OBRT MONET",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2021-11-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2024-11-04",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3336",
+    "name": "O.�. BRDA",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "razna prehrana",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "POTRO�NO, ispisati ugovor po broju",
+        "dateFrom": "2025-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 84
+  },
+  {
+    "id": "3365",
+    "name": "PEKARA VEDRANA",
+    "contracts": [
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2022-06-28",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "",
+        "dateFrom": "2023-05-16",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3366",
+    "name": "SELECT FOOD d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 3
+  },
+  {
+    "id": "3393",
+    "name": "SUNCE HOTELI d.d.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "2024/25",
+        "dateFrom": "2024-03-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-04-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "Ireks",
+        "dateFrom": "2023-03-03",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "",
+        "dateFrom": "2023-03-03",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 442
+  },
+  {
+    "id": "3401",
+    "name": "PEKARA KLAS III",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3402",
+    "name": "VALAMAR RIVIERA d.d.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2021-05-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 360,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 60,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 347
+  },
+  {
+    "id": "3418",
+    "name": "JOZEF I ANTON j.d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 5,
+        "name": "",
+        "dateFrom": "2024-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3422",
+    "name": "L'AMOUR j.d.o.o",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2020-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": "TRANSAKCIJSKI RA�UN"
+      }
+    ],
+    "productCount": 46
+  },
+  {
+    "id": "3426",
+    "name": "EUROPAN d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2024-01-02",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 272
+  },
+  {
+    "id": "3450",
+    "name": "ORION GRUPA d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "8% novo",
+        "dateFrom": "2021-11-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 6
+  },
+  {
+    "id": "3453",
+    "name": "JADRANKA Obrt za trgovinu",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3458",
+    "name": "O� SMILJEVAC",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna prehrana 2025",
+        "dateFrom": "2025-03-03",
+        "dateTo": "2026-03-03",
+        "paymentTerms": 30,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 54
+  },
+  {
+    "id": "3461",
+    "name": "PEKARSKO UGOST.OBRT PIROVAC",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "ostalo",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3465",
+    "name": "HOTEL OLA d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Razna prehrana 2025",
+        "dateFrom": "2021-03-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 45,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 351
+  },
+  {
+    "id": "3468",
+    "name": "TRADICIJA-OBRT ZA UGOSTITELJSTVO",
+    "contracts": [
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-11-21",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 4,
+        "name": "",
+        "dateFrom": "2023-02-07",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3478",
+    "name": "VILA MARIO",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "Ponuda",
+        "dateFrom": "2021-01-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 96
+  },
+  {
+    "id": "3481",
+    "name": "OBRT PEKARA ELENA",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3483",
+    "name": "ARI BAKERY j.d.o.o.",
+    "contracts": [
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 3,
+        "name": "",
+        "dateFrom": "2022-06-27",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3487",
+    "name": "PEKARNA JADRAN",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2023-05-16",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2023-05-16",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 589
+  },
+  {
+    "id": "3488",
+    "name": "LAZAR PEKARNA j.d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-07-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2022-07-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 566
+  },
+  {
+    "id": "3494",
+    "name": "ASAP ADRIATIC d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2025-06-01",
+        "dateTo": "2029-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      },
+      {
+        "id": 2,
+        "name": "",
+        "dateFrom": "2025-06-01",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 589
+  },
+  {
+    "id": "3498",
+    "name": "VANILLA BRIOCHE j.d.o.o.",
+    "contracts": [
+      {
+        "id": 1,
+        "name": "",
+        "dateFrom": "2022-06-26",
+        "dateTo": "2025-12-31",
+        "paymentTerms": 0,
+        "paymentMethod": ""
+      }
+    ],
+    "productCount": 177
+  }
+]
