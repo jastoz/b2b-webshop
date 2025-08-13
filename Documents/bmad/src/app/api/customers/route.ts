@@ -1,17 +1,29 @@
 import { NextResponse } from 'next/server';
-import { getCustomers } from '@/lib/data';
+import { getCustomers } from '@/lib/supabase-data';
 import type { CustomerListResponse } from '@/types';
 
 export async function GET() {
   try {
-    const customers = await getCustomers();
+    const customersResponse = await getCustomers();
+    
+    if (!customersResponse.success) {
+      return NextResponse.json(
+        {
+          success: false,
+          error: customersResponse.error,
+          data: [],
+          count: 0
+        },
+        { status: 500 }
+      );
+    }
     
     // Transform for API response
-    const responseData = customers.map(customer => ({
+    const responseData = customersResponse.data.map(customer => ({
       id: customer.id,
       name: customer.name,
-      contractCount: customer.contracts.length,
-      productCount: customer.productCount || 0
+      contractCount: 0, // TODO: Add contracts count from database
+      productCount: customer.product_count || 0
     }));
 
     const response: CustomerListResponse = {
