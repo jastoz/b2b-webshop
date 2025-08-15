@@ -1,0 +1,146 @@
+{
+  "info": "Sample login credentials for testing",
+  "default_password": "test123",
+  "accounts": [
+    {
+      "email": "hotel-medena-seget-d@test.hr",
+      "customer": "21",
+      "name": "HOTEL MEDENA - SEGET DONJI - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "nabava-hotel-medena-seget-d@test.hr",
+      "customer": "21",
+      "name": "HOTEL MEDENA - SEGET DONJI - Nabava",
+      "is_primary": false,
+      "password": "test123"
+    },
+    {
+      "email": "direktor-hotel-medena-seget-d@test.hr",
+      "customer": "21",
+      "name": "HOTEL MEDENA - SEGET DONJI - Direktor",
+      "is_primary": false,
+      "password": "test123"
+    },
+    {
+      "email": "djeji-vrti-ibenska-m@test.hr",
+      "customer": "29",
+      "name": "DJE�JI VRTI� �IBENSKA MASLINA - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "mano-mano-doo@test.hr",
+      "customer": "34",
+      "name": "MANO MANO d.o.o - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "centar-fra-ante-seke@test.hr",
+      "customer": "51",
+      "name": "CENTAR FRA. ANTE SEKELEZ - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "dom-za-odrasle-osobe@test.hr",
+      "customer": "55",
+      "name": "DOM ZA ODRASLE OSOBE BLATO - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "dom-za-starije-osobe@test.hr",
+      "customer": "56",
+      "name": "DOM ZA STARIJE OSOBE VELA LUKA - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "nabava-dom-za-starije-osobe@test.hr",
+      "customer": "56",
+      "name": "DOM ZA STARIJE OSOBE VELA LUKA - Nabava",
+      "is_primary": false,
+      "password": "test123"
+    },
+    {
+      "email": "kliniki-bolniki-cent@test.hr",
+      "customer": "78",
+      "name": "KLINI�KI BOLNI�KI CENTAR SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "dom-za-starije-osobe@test.hr",
+      "customer": "80",
+      "name": "DOM ZA STARIJE OSOBE KNIN - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "opa-bolnica-zadar@test.hr",
+      "customer": "82",
+      "name": "OP�A BOLNICA - ZADAR - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "djeji-vrti-grigor-vi@test.hr",
+      "customer": "83",
+      "name": "DJE�JI VRTI� GRIGOR VITEZ - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "opa-bolnica-ibenik@test.hr",
+      "customer": "86",
+      "name": "OP�A BOLNICA - �IBENIK - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "nabava-opa-bolnica-ibenik@test.hr",
+      "customer": "86",
+      "name": "OP�A BOLNICA - �IBENIK - Nabava",
+      "is_primary": false,
+      "password": "test123"
+    },
+    {
+      "email": "direktor-opa-bolnica-ibenik@test.hr",
+      "customer": "86",
+      "name": "OP�A BOLNICA - �IBENIK - Direktor",
+      "is_primary": false,
+      "password": "test123"
+    },
+    {
+      "email": "centar-za-pr-usl-u-z@test.hr",
+      "customer": "87",
+      "name": "CENTAR ZA PR. USL. U ZAJEDNICI MAESTRAL - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "djeji-vrti-cvrak-kni@test.hr",
+      "customer": "96",
+      "name": "DJE�JI VRTI� CVR�AK KNIN - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "kalos@test.hr",
+      "customer": "101",
+      "name": "KALOS - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    },
+    {
+      "email": "panex-doo@test.hr",
+      "customer": "112",
+      "name": "PANEX d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "password": "test123"
+    }
+  ]
+}

@@ -136,15 +136,15 @@ export default function ProductFilters({
                         Kategorija
                       </label>
                       <Select
-                        value={filters.category || ''}
-                        onValueChange={(value) => handleFilterChange('category', value || undefined)}
+                        value={filters.category || 'all'}
+                        onValueChange={(value) => handleFilterChange('category', value === 'all' ? undefined : value)}
                       >
                         <SelectTrigger>
                           <SelectValue placeholder="Sve kategorije" />
                         </SelectTrigger>
                         <SelectContent>
-                          <SelectItem value="">Sve kategorije</SelectItem>
-                          {categories.map(category => (
+                          <SelectItem value="all">Sve kategorije</SelectItem>
+                          {categories.filter(category => category && category.trim()).map(category => (
                             <SelectItem key={category} value={category}>
                               {category}
                             </SelectItem>
@@ -159,15 +159,15 @@ export default function ProductFilters({
                         Dobavljač
                       </label>
                       <Select
-                        value={filters.supplier || ''}
-                        onValueChange={(value) => handleFilterChange('supplier', value || undefined)}
+                        value={filters.supplier || 'all'}
+                        onValueChange={(value) => handleFilterChange('supplier', value === 'all' ? undefined : value)}
                       >
                         <SelectTrigger>
                           <SelectValue placeholder="Svi dobavljači" />
                         </SelectTrigger>
                         <SelectContent>
-                          <SelectItem value="">Svi dobavljači</SelectItem>
-                          {suppliers.map(supplier => (
+                          <SelectItem value="all">Svi dobavljači</SelectItem>
+                          {suppliers.filter(supplier => supplier && supplier.trim()).map(supplier => (
                             <SelectItem key={supplier} value={supplier}>
                               {supplier}
                             </SelectItem>

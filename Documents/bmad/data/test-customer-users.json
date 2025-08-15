@@ -1,0 +1,2637 @@
+{
+  "success": true,
+  "generated_at": "2025-08-13T09:49:30.239Z",
+  "total_users": 263,
+  "data": [
+    {
+      "id": 1,
+      "customer_id": "21",
+      "email": "hotel-medena-seget-d@test.hr",
+      "full_name": "HOTEL MEDENA - SEGET DONJI - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 2,
+      "customer_id": "21",
+      "email": "nabava-hotel-medena-seget-d@test.hr",
+      "full_name": "HOTEL MEDENA - SEGET DONJI - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 3,
+      "customer_id": "21",
+      "email": "direktor-hotel-medena-seget-d@test.hr",
+      "full_name": "HOTEL MEDENA - SEGET DONJI - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 4,
+      "customer_id": "29",
+      "email": "djeji-vrti-ibenska-m@test.hr",
+      "full_name": "DJE�JI VRTI� �IBENSKA MASLINA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 5,
+      "customer_id": "34",
+      "email": "mano-mano-doo@test.hr",
+      "full_name": "MANO MANO d.o.o - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 6,
+      "customer_id": "51",
+      "email": "centar-fra-ante-seke@test.hr",
+      "full_name": "CENTAR FRA. ANTE SEKELEZ - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 7,
+      "customer_id": "55",
+      "email": "dom-za-odrasle-osobe@test.hr",
+      "full_name": "DOM ZA ODRASLE OSOBE BLATO - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 8,
+      "customer_id": "56",
+      "email": "dom-za-starije-osobe@test.hr",
+      "full_name": "DOM ZA STARIJE OSOBE VELA LUKA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 9,
+      "customer_id": "56",
+      "email": "nabava-dom-za-starije-osobe@test.hr",
+      "full_name": "DOM ZA STARIJE OSOBE VELA LUKA - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 10,
+      "customer_id": "78",
+      "email": "kliniki-bolniki-cent@test.hr",
+      "full_name": "KLINI�KI BOLNI�KI CENTAR SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 11,
+      "customer_id": "80",
+      "email": "dom-za-starije-osobe@test.hr",
+      "full_name": "DOM ZA STARIJE OSOBE KNIN - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 12,
+      "customer_id": "82",
+      "email": "opa-bolnica-zadar@test.hr",
+      "full_name": "OP�A BOLNICA - ZADAR - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 13,
+      "customer_id": "83",
+      "email": "djeji-vrti-grigor-vi@test.hr",
+      "full_name": "DJE�JI VRTI� GRIGOR VITEZ - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 14,
+      "customer_id": "86",
+      "email": "opa-bolnica-ibenik@test.hr",
+      "full_name": "OP�A BOLNICA - �IBENIK - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 15,
+      "customer_id": "86",
+      "email": "nabava-opa-bolnica-ibenik@test.hr",
+      "full_name": "OP�A BOLNICA - �IBENIK - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 16,
+      "customer_id": "86",
+      "email": "direktor-opa-bolnica-ibenik@test.hr",
+      "full_name": "OP�A BOLNICA - �IBENIK - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 17,
+      "customer_id": "87",
+      "email": "centar-za-pr-usl-u-z@test.hr",
+      "full_name": "CENTAR ZA PR. USL. U ZAJEDNICI MAESTRAL - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 18,
+      "customer_id": "96",
+      "email": "djeji-vrti-cvrak-kni@test.hr",
+      "full_name": "DJE�JI VRTI� CVR�AK KNIN - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 19,
+      "customer_id": "101",
+      "email": "kalos@test.hr",
+      "full_name": "KALOS - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 20,
+      "customer_id": "112",
+      "email": "panex-doo@test.hr",
+      "full_name": "PANEX d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 21,
+      "customer_id": "121",
+      "email": "apartmani-medena-dd@test.hr",
+      "full_name": "APARTMANI MEDENA d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 22,
+      "customer_id": "121",
+      "email": "nabava-apartmani-medena-dd@test.hr",
+      "full_name": "APARTMANI MEDENA d.d. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 23,
+      "customer_id": "123",
+      "email": "intermod-doo@test.hr",
+      "full_name": "INTERMOD d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 24,
+      "customer_id": "125",
+      "email": "opa-bolnica-dubrovni@test.hr",
+      "full_name": "OP�A BOLNICA - DUBROVNIK - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 25,
+      "customer_id": "131",
+      "email": "dabalo-doo@test.hr",
+      "full_name": "DABALO d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 26,
+      "customer_id": "144",
+      "email": "ustanova-des-split@test.hr",
+      "full_name": "USTANOVA DES - SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 27,
+      "customer_id": "145",
+      "email": "dujmex-doo@test.hr",
+      "full_name": "DUJMEX d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 28,
+      "customer_id": "145",
+      "email": "nabava-dujmex-doo@test.hr",
+      "full_name": "DUJMEX d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 29,
+      "customer_id": "145",
+      "email": "direktor-dujmex-doo@test.hr",
+      "full_name": "DUJMEX d.o.o. - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 30,
+      "customer_id": "153",
+      "email": "plovput-doo-split@test.hr",
+      "full_name": "PLOVPUT d.o.o. Split - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 31,
+      "customer_id": "168",
+      "email": "studentski-centar-sp@test.hr",
+      "full_name": "STUDENTSKI CENTAR - SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 32,
+      "customer_id": "169",
+      "email": "zatvor-u-splitu@test.hr",
+      "full_name": "ZATVOR U SPLITU - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 33,
+      "customer_id": "177",
+      "email": "cro-go-solin@test.hr",
+      "full_name": "CRO GO - SOLIN - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 34,
+      "customer_id": "178",
+      "email": "djeji-vrti-radost-za@test.hr",
+      "full_name": "DJE�JI VRTI� RADOST ZADAR - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 35,
+      "customer_id": "178",
+      "email": "nabava-djeji-vrti-radost-za@test.hr",
+      "full_name": "DJE�JI VRTI� RADOST ZADAR - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 36,
+      "customer_id": "180",
+      "email": "ueniki-dom-split@test.hr",
+      "full_name": "U�ENI�KI DOM - SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 37,
+      "customer_id": "183",
+      "email": "dom-za-starije-i-nem@test.hr",
+      "full_name": "DOM ZA STARIJE I NEMO�NE OSOBE SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 38,
+      "customer_id": "193",
+      "email": "imenjak-doo@test.hr",
+      "full_name": "IMENJAK d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 39,
+      "customer_id": "200",
+      "email": "medora-hoteli-i-ljet@test.hr",
+      "full_name": "MEDORA HOTELI I LJETOVALI�TA d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 40,
+      "customer_id": "208",
+      "email": "centar-za-rehabilita@test.hr",
+      "full_name": "Centar za rehabilitaciju Samaritanac - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 41,
+      "customer_id": "208",
+      "email": "nabava-centar-za-rehabilita@test.hr",
+      "full_name": "Centar za rehabilitaciju Samaritanac - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 42,
+      "customer_id": "208",
+      "email": "direktor-centar-za-rehabilita@test.hr",
+      "full_name": "Centar za rehabilitaciju Samaritanac - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 43,
+      "customer_id": "211",
+      "email": "biokovka-specijalna-@test.hr",
+      "full_name": "BIOKOVKA - SPECIJALNA BOLNICA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 44,
+      "customer_id": "220",
+      "email": "enski-aki-dom-split@test.hr",
+      "full_name": "�ENSKI �A�KI DOM - SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 45,
+      "customer_id": "230",
+      "email": "premis-doo-makarska@test.hr",
+      "full_name": "PREMIS d.o.o.- MAKARSKA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 46,
+      "customer_id": "231",
+      "email": "centar-za-pruanje-us@test.hr",
+      "full_name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 47,
+      "customer_id": "234",
+      "email": "dom-za-star-i-nem-lo@test.hr",
+      "full_name": "DOM ZA STAR. I NEM. LOVRET - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 48,
+      "customer_id": "234",
+      "email": "nabava-dom-za-star-i-nem-lo@test.hr",
+      "full_name": "DOM ZA STAR. I NEM. LOVRET - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 49,
+      "customer_id": "243",
+      "email": "mak-sat-doo@test.hr",
+      "full_name": "MAK SAT d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 50,
+      "customer_id": "250",
+      "email": "muki-ueniki-dom-dubr@test.hr",
+      "full_name": "MU�KI U�ENI�KI DOM DUBROVNIK - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 51,
+      "customer_id": "254",
+      "email": "kanjata-doo@test.hr",
+      "full_name": "�KANJATA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 52,
+      "customer_id": "275",
+      "email": "dom-za-star-i-nem-os@test.hr",
+      "full_name": "DOM ZA STAR. I NEM. OSOBE ZADAR - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 53,
+      "customer_id": "276",
+      "email": "dom-za-odrasle-sveti@test.hr",
+      "full_name": "DOM ZA ODRASLE SVETI FRANE - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 54,
+      "customer_id": "276",
+      "email": "nabava-dom-za-odrasle-sveti@test.hr",
+      "full_name": "DOM ZA ODRASLE SVETI FRANE - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 55,
+      "customer_id": "276",
+      "email": "direktor-dom-za-odrasle-sveti@test.hr",
+      "full_name": "DOM ZA ODRASLE SVETI FRANE - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 56,
+      "customer_id": "277",
+      "email": "centar-za-pruanje-us@test.hr",
+      "full_name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI ZEMUNIK - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 57,
+      "customer_id": "278",
+      "email": "centar-za-pruanje-us@test.hr",
+      "full_name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI ZADAR - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 58,
+      "customer_id": "281",
+      "email": "sestre-franjevke-od-@test.hr",
+      "full_name": "SESTRE FRANJEVKE OD BEZGRE�NE - PODSTRANA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 59,
+      "customer_id": "283",
+      "email": "juraj-bonai@test.hr",
+      "full_name": "JURAJ BONA�I - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 60,
+      "customer_id": "285",
+      "email": "centar-za-pruanje-us@test.hr",
+      "full_name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI MIR - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 61,
+      "customer_id": "285",
+      "email": "nabava-centar-za-pruanje-us@test.hr",
+      "full_name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI MIR - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 62,
+      "customer_id": "292",
+      "email": "zatvor-u-ibeniku@test.hr",
+      "full_name": "ZATVOR U �IBENIKU - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 63,
+      "customer_id": "313",
+      "email": "vis-dd@test.hr",
+      "full_name": "VIS d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 64,
+      "customer_id": "340",
+      "email": "centar-za-pruanje-us@test.hr",
+      "full_name": "CENTAR ZA PRU�ANJE USLUGA U ZAJEDNICI METKOVI� - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 65,
+      "customer_id": "347",
+      "email": "pekarski-obrt-jadran@test.hr",
+      "full_name": "PEKARSKI OBRT JADRAN - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 66,
+      "customer_id": "355",
+      "email": "narona-impex-doo@test.hr",
+      "full_name": "NARONA IMPEX d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 67,
+      "customer_id": "355",
+      "email": "nabava-narona-impex-doo@test.hr",
+      "full_name": "NARONA IMPEX d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 68,
+      "customer_id": "355",
+      "email": "direktor-narona-impex-doo@test.hr",
+      "full_name": "NARONA IMPEX d.o.o. - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 69,
+      "customer_id": "396",
+      "email": "imi-company-doo@test.hr",
+      "full_name": "�IMI� COMPANY d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 70,
+      "customer_id": "577",
+      "email": "hoteli-svpetrvs-dd@test.hr",
+      "full_name": "HOTELI SVPETRVS d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 71,
+      "customer_id": "659",
+      "email": "hoteli-zadar-dd@test.hr",
+      "full_name": "HOTELI ZADAR d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 72,
+      "customer_id": "817",
+      "email": "djeji-vrti-radost-sp@test.hr",
+      "full_name": "DJE�JI VRTI� RADOST SPLIT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 73,
+      "customer_id": "818",
+      "email": "djeji-vrti-cvit-medi@test.hr",
+      "full_name": "DJE�JI VRTI� CVIT MEDITERANA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 74,
+      "customer_id": "818",
+      "email": "nabava-djeji-vrti-cvit-medi@test.hr",
+      "full_name": "DJE�JI VRTI� CVIT MEDITERANA - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 75,
+      "customer_id": "819",
+      "email": "djeji-vrti-marjan@test.hr",
+      "full_name": "DJE�JI VRTI� MARJAN - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 76,
+      "customer_id": "826",
+      "email": "dom-za-star-i-nem-os@test.hr",
+      "full_name": "DOM ZA STAR. I NEM. OSOBE VIS - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 77,
+      "customer_id": "847",
+      "email": "zatvor-u-zadru@test.hr",
+      "full_name": "ZATVOR U ZADRU - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 78,
+      "customer_id": "856",
+      "email": "lekaj-doo@test.hr",
+      "full_name": "LEKAJ d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 79,
+      "customer_id": "894",
+      "email": "as-panino-doo@test.hr",
+      "full_name": "AS PANINO d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 80,
+      "customer_id": "894",
+      "email": "nabava-as-panino-doo@test.hr",
+      "full_name": "AS PANINO d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 81,
+      "customer_id": "894",
+      "email": "direktor-as-panino-doo@test.hr",
+      "full_name": "AS PANINO d.o.o. - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 82,
+      "customer_id": "908",
+      "email": "pekarski-obrt-marcel@test.hr",
+      "full_name": "PEKARSKI OBRT MARCELLA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 83,
+      "customer_id": "943",
+      "email": "ustanova-none-seget-@test.hr",
+      "full_name": "USTANOVA NONE - SEGET VRANJICA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 84,
+      "customer_id": "991",
+      "email": "zatvor-u-gospiu@test.hr",
+      "full_name": "ZATVOR U GOSPI�U - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 85,
+      "customer_id": "1020",
+      "email": "grand-hotel-lav-dd@test.hr",
+      "full_name": "GRAND HOTEL LAV d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 86,
+      "customer_id": "1031",
+      "email": "fast-food-gyros@test.hr",
+      "full_name": "FAST FOOD GYROS - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 87,
+      "customer_id": "1031",
+      "email": "nabava-fast-food-gyros@test.hr",
+      "full_name": "FAST FOOD GYROS - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 88,
+      "customer_id": "1043",
+      "email": "brid-doo@test.hr",
+      "full_name": "BRID d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 89,
+      "customer_id": "1053",
+      "email": "krina-doo@test.hr",
+      "full_name": "KR�INA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 90,
+      "customer_id": "1062",
+      "email": "apfel-doo@test.hr",
+      "full_name": "APFEL d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 91,
+      "customer_id": "1064",
+      "email": "bretanide-resort-doo@test.hr",
+      "full_name": "BRETANIDE RESORT d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 92,
+      "customer_id": "1102",
+      "email": "dom-za-starije-i-nem@test.hr",
+      "full_name": "DOM ZA STARIJE I NEMO�NE OSMAJKA MARIJA PETKOVI� - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 93,
+      "customer_id": "1102",
+      "email": "nabava-dom-za-starije-i-nem@test.hr",
+      "full_name": "DOM ZA STARIJE I NEMO�NE OSMAJKA MARIJA PETKOVI� - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 94,
+      "customer_id": "1102",
+      "email": "direktor-dom-za-starije-i-nem@test.hr",
+      "full_name": "DOM ZA STARIJE I NEMO�NE OSMAJKA MARIJA PETKOVI� - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 95,
+      "customer_id": "1184",
+      "email": "duo-peka-biograd-doo@test.hr",
+      "full_name": "DUO PEKA BIOGRAD d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 96,
+      "customer_id": "1187",
+      "email": "pekarna-laura@test.hr",
+      "full_name": "PEKARNA LAURA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 97,
+      "customer_id": "1201",
+      "email": "opa-i-veteranska-bol@test.hr",
+      "full_name": "OP�A I VETERANSKA BOLNICA HRVATSKI PONOS - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 98,
+      "customer_id": "1205",
+      "email": "djeji-vrti-dugi-rat@test.hr",
+      "full_name": "DJE�JI VRTI� DUGI RAT - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 99,
+      "customer_id": "1222",
+      "email": "ugobrt-slastiarnica-@test.hr",
+      "full_name": "UG.OBRT SLASTI�ARNICA KOD ANE - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 100,
+      "customer_id": "1222",
+      "email": "nabava-ugobrt-slastiarnica-@test.hr",
+      "full_name": "UG.OBRT SLASTI�ARNICA KOD ANE - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 101,
+      "customer_id": "1246",
+      "email": "pert-doo@test.hr",
+      "full_name": "PERT d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 102,
+      "customer_id": "1302",
+      "email": "hotel-hvar-doo@test.hr",
+      "full_name": "HOTEL HVAR d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 103,
+      "customer_id": "1320",
+      "email": "pto-mlin@test.hr",
+      "full_name": "P.T.O. MLIN - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 104,
+      "customer_id": "1357",
+      "email": "srednjokolski-aki-do@test.hr",
+      "full_name": "SREDNJO�KOLSKI �A�KI DOM ZADAR - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 105,
+      "customer_id": "1362",
+      "email": "nikolac-doo@test.hr",
+      "full_name": "NIKOLAC d.o.o - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 106,
+      "customer_id": "1362",
+      "email": "nabava-nikolac-doo@test.hr",
+      "full_name": "NIKOLAC d.o.o - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 107,
+      "customer_id": "1362",
+      "email": "direktor-nikolac-doo@test.hr",
+      "full_name": "NIKOLAC d.o.o - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 108,
+      "customer_id": "1372",
+      "email": "stella-mediterranea-@test.hr",
+      "full_name": "STELLA MEDITERRANEA D.O.O. proizvodnja i trgovina - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 109,
+      "customer_id": "1394",
+      "email": "dom-za-starije-osobe@test.hr",
+      "full_name": "DOM ZA STARIJE OSOBE LI�KO-SENJSKE �UPANIJE - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 110,
+      "customer_id": "1418",
+      "email": "djeji-vrti-bili-cvit@test.hr",
+      "full_name": "DJE�JI VRTI� BILI CVITAK - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 111,
+      "customer_id": "1446",
+      "email": "dom-za-starije-osobe@test.hr",
+      "full_name": "DOM ZA STARIJE OSOBE OKLAJ - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 112,
+      "customer_id": "1457",
+      "email": "babi-pekara-doo@test.hr",
+      "full_name": "BABI� PEKARA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 113,
+      "customer_id": "1457",
+      "email": "nabava-babi-pekara-doo@test.hr",
+      "full_name": "BABI� PEKARA d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 114,
+      "customer_id": "1483",
+      "email": "bonaca-dugi-otok-doo@test.hr",
+      "full_name": "BONACA DUGI OTOK d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 115,
+      "customer_id": "1495",
+      "email": "pto-dalmacija@test.hr",
+      "full_name": "P.T.O. DALMACIJA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 116,
+      "customer_id": "1496",
+      "email": "biberons-doo@test.hr",
+      "full_name": "BIBERONS d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 117,
+      "customer_id": "1508",
+      "email": "dom-za-star-i-nem-os@test.hr",
+      "full_name": "DOM ZA STAR. I NEM. OSOBE CVJETNI DOM - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 118,
+      "customer_id": "1515",
+      "email": "djeji-vrti-pahuljica@test.hr",
+      "full_name": "DJE�JI VRTI� PAHULJICA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 119,
+      "customer_id": "1515",
+      "email": "nabava-djeji-vrti-pahuljica@test.hr",
+      "full_name": "DJE�JI VRTI� PAHULJICA - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 120,
+      "customer_id": "1515",
+      "email": "direktor-djeji-vrti-pahuljica@test.hr",
+      "full_name": "DJE�JI VRTI� PAHULJICA - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 121,
+      "customer_id": "1518",
+      "email": "viktor-zadar-doo@test.hr",
+      "full_name": "VIKTOR ZADAR d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 122,
+      "customer_id": "1701",
+      "email": "astrum-doo@test.hr",
+      "full_name": "ASTRUM d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 123,
+      "customer_id": "1722",
+      "email": "pto-luiggi@test.hr",
+      "full_name": "P.T.O. LUIGGI - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 124,
+      "customer_id": "1761",
+      "email": "po-belafua@test.hr",
+      "full_name": "P.O. BELAFU�A - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 125,
+      "customer_id": "1773",
+      "email": "kraljica-mira-doo@test.hr",
+      "full_name": "KRALJICA MIRA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 126,
+      "customer_id": "1773",
+      "email": "nabava-kraljica-mira-doo@test.hr",
+      "full_name": "KRALJICA MIRA d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 127,
+      "customer_id": "1781",
+      "email": "hotel-split-dd@test.hr",
+      "full_name": "HOTEL SPLIT d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 128,
+      "customer_id": "1788",
+      "email": "pekarna-stanovi@test.hr",
+      "full_name": "PEKARNA STANOVI - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 129,
+      "customer_id": "1809",
+      "email": "pto-tesco@test.hr",
+      "full_name": "PTO TES-CO - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 130,
+      "customer_id": "1817",
+      "email": "pekarna-magistrala-d@test.hr",
+      "full_name": "PEKARNA MAGISTRALA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 131,
+      "customer_id": "1825",
+      "email": "tuak-doo@test.hr",
+      "full_name": "TU�AK d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 132,
+      "customer_id": "1825",
+      "email": "nabava-tuak-doo@test.hr",
+      "full_name": "TU�AK d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 133,
+      "customer_id": "1825",
+      "email": "direktor-tuak-doo@test.hr",
+      "full_name": "TU�AK d.o.o. - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 134,
+      "customer_id": "1826",
+      "email": "pekara-zaton@test.hr",
+      "full_name": "PEKARA ZATON - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 135,
+      "customer_id": "1828",
+      "email": "to-koba@test.hr",
+      "full_name": "T.O. KOBA� - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 136,
+      "customer_id": "1829",
+      "email": "regata-doo@test.hr",
+      "full_name": "REGATA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 137,
+      "customer_id": "1830",
+      "email": "cvitanovi-doo@test.hr",
+      "full_name": "CVITANOVI� d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 138,
+      "customer_id": "1831",
+      "email": "pekara-fino-i-friko@test.hr",
+      "full_name": "PEKARA FINO I FRI�KO - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 139,
+      "customer_id": "1831",
+      "email": "nabava-pekara-fino-i-friko@test.hr",
+      "full_name": "PEKARA FINO I FRI�KO - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 140,
+      "customer_id": "1832",
+      "email": "rajmonda-doo@test.hr",
+      "full_name": "RAJMONDA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 141,
+      "customer_id": "1834",
+      "email": "uo-speedy@test.hr",
+      "full_name": "U.O. SPEEDY - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 142,
+      "customer_id": "1840",
+      "email": "frigus-grupa-doo@test.hr",
+      "full_name": "FRIGUS GRUPA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 143,
+      "customer_id": "1898",
+      "email": "leonora-doo@test.hr",
+      "full_name": "LEONORA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 144,
+      "customer_id": "1926",
+      "email": "non-stop-obrt-za-pro@test.hr",
+      "full_name": "NON STOP obrt za proizvodnju i tgovinu - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 145,
+      "customer_id": "1926",
+      "email": "nabava-non-stop-obrt-za-pro@test.hr",
+      "full_name": "NON STOP obrt za proizvodnju i tgovinu - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 146,
+      "customer_id": "1926",
+      "email": "direktor-non-stop-obrt-za-pro@test.hr",
+      "full_name": "NON STOP obrt za proizvodnju i tgovinu - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 147,
+      "customer_id": "1928",
+      "email": "uo-zdravljak@test.hr",
+      "full_name": "UO ZDRAVLJAK - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 148,
+      "customer_id": "1933",
+      "email": "klas-doo-2013@test.hr",
+      "full_name": "KLAS d.o.o. 2013 - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 149,
+      "customer_id": "1936",
+      "email": "pekarna-klas@test.hr",
+      "full_name": "PEKARNA KLAS - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 150,
+      "customer_id": "1946",
+      "email": "obrt-za-proizpekproi@test.hr",
+      "full_name": "OBRT ZA PROIZ.PEK.PROIZVODA BIOKOVO II - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 151,
+      "customer_id": "1969",
+      "email": "vbleona-jdoo@test.hr",
+      "full_name": "VBLEONA j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 152,
+      "customer_id": "1969",
+      "email": "nabava-vbleona-jdoo@test.hr",
+      "full_name": "VBLEONA j.d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 153,
+      "customer_id": "1976",
+      "email": "pekara-leonardo-doo@test.hr",
+      "full_name": "PEKARA LEONARDO d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 154,
+      "customer_id": "1997",
+      "email": "zeta-trgovina-doo@test.hr",
+      "full_name": "ZETA TRGOVINA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 155,
+      "customer_id": "2006",
+      "email": "argola-doo@test.hr",
+      "full_name": "ARGOLA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 156,
+      "customer_id": "2024",
+      "email": "sebastian-obrt-za-pr@test.hr",
+      "full_name": "SEBASTIAN obrt za proiz. i trgovinu - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 157,
+      "customer_id": "2032",
+      "email": "gricko-doo@test.hr",
+      "full_name": "GRICKO d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 158,
+      "customer_id": "2032",
+      "email": "nabava-gricko-doo@test.hr",
+      "full_name": "GRICKO d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 159,
+      "customer_id": "2032",
+      "email": "direktor-gricko-doo@test.hr",
+      "full_name": "GRICKO d.o.o. - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.238Z"
+    },
+    {
+      "id": 160,
+      "customer_id": "2034",
+      "email": "pekarnica-latica-doo@test.hr",
+      "full_name": "PEKARNICA LATICA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.238Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 161,
+      "customer_id": "2062",
+      "email": "djeji-vrti-vis-vis@test.hr",
+      "full_name": "DJE�JI VRTI�  VIS  VIS - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 162,
+      "customer_id": "2068",
+      "email": "centar-za-odgoj-i-ob@test.hr",
+      "full_name": "CENTAR ZA ODGOJ I OBRAZOVANJE �UBI�EVAC - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 163,
+      "customer_id": "2080",
+      "email": "aroma-3@test.hr",
+      "full_name": "AROMA 3 - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 164,
+      "customer_id": "2089",
+      "email": "ugostiteljski-obrt-s@test.hr",
+      "full_name": "UGOSTITELJSKI OBRT SPECIJAL - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 165,
+      "customer_id": "2089",
+      "email": "nabava-ugostiteljski-obrt-s@test.hr",
+      "full_name": "UGOSTITELJSKI OBRT SPECIJAL - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 166,
+      "customer_id": "2111",
+      "email": "hoteli-ivogoe-dd@test.hr",
+      "full_name": "HOTELI �IVOGO��E d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 167,
+      "customer_id": "2114",
+      "email": "mini-pekarna-tina@test.hr",
+      "full_name": "MINI PEKARNA TINA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 168,
+      "customer_id": "2122",
+      "email": "mare-ventus-doo-tuep@test.hr",
+      "full_name": "MARE VENTUS d.o.o. TU�EPI - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 169,
+      "customer_id": "2123",
+      "email": "andro-internacional-@test.hr",
+      "full_name": "ANDRO INTERNACIONAL D.O.O. OMI� - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 170,
+      "customer_id": "2128",
+      "email": "crvena-luka-dd@test.hr",
+      "full_name": "CRVENA LUKA d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 171,
+      "customer_id": "2128",
+      "email": "nabava-crvena-luka-dd@test.hr",
+      "full_name": "CRVENA LUKA d.d. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 172,
+      "customer_id": "2128",
+      "email": "direktor-crvena-luka-dd@test.hr",
+      "full_name": "CRVENA LUKA d.d. - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 173,
+      "customer_id": "2132",
+      "email": "didovo-zlato-doo@test.hr",
+      "full_name": "DIDOVO ZLATO d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 174,
+      "customer_id": "2140",
+      "email": "proizi-prodaja-kruha@test.hr",
+      "full_name": "PROIZ.I PRODAJA KRUHA PEKARNICA GAJAC - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 175,
+      "customer_id": "2149",
+      "email": "objekt-brze-prehrane@test.hr",
+      "full_name": "OBJEKT BRZE PREHRANE ZRINSKI - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 176,
+      "customer_id": "2156",
+      "email": "mediteran-obrt-za-ug@test.hr",
+      "full_name": "MEDITERAN Obrt za ug. i pr. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 177,
+      "customer_id": "2160",
+      "email": "pekarna-marija-doo@test.hr",
+      "full_name": "PEKARNA MARIJA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 178,
+      "customer_id": "2160",
+      "email": "nabava-pekarna-marija-doo@test.hr",
+      "full_name": "PEKARNA MARIJA d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 179,
+      "customer_id": "2162",
+      "email": "pekara-bol-obrt-za-p@test.hr",
+      "full_name": "PEKARA BOL OBRT ZA PROIZ.I TRGOVINU - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 180,
+      "customer_id": "2243",
+      "email": "pekarna-hodaj-jdoo@test.hr",
+      "full_name": "PEKARNA HODAJ j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 181,
+      "customer_id": "2283",
+      "email": "hrsti-proiztrg-obrt-@test.hr",
+      "full_name": "HRSTI� - Proiz.trg. obrt- vl.Nikola Hrsti� - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 182,
+      "customer_id": "2291",
+      "email": "pekarna-peka@test.hr",
+      "full_name": "PEKARNA PEKA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 183,
+      "customer_id": "2295",
+      "email": "pz-stolisnik@test.hr",
+      "full_name": "PZ STOLISNIK - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 184,
+      "customer_id": "2295",
+      "email": "nabava-pz-stolisnik@test.hr",
+      "full_name": "PZ STOLISNIK - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 185,
+      "customer_id": "2295",
+      "email": "direktor-pz-stolisnik@test.hr",
+      "full_name": "PZ STOLISNIK - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 186,
+      "customer_id": "2340",
+      "email": "pekarnica-pag@test.hr",
+      "full_name": "PEKARNICA PAG - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 187,
+      "customer_id": "2343",
+      "email": "slastiarna-calimero@test.hr",
+      "full_name": "SLASTI�ARNA CALIMERO - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 188,
+      "customer_id": "2344",
+      "email": "pekara-jadran-j-doo@test.hr",
+      "full_name": "PEKARA JADRAN j. d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 189,
+      "customer_id": "2357",
+      "email": "ugostiteljski-obrt-m@test.hr",
+      "full_name": "UGOSTITELJSKI OBRT MR.CHOCO - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 190,
+      "customer_id": "2376",
+      "email": "centar-za-rehabilita@test.hr",
+      "full_name": "CENTAR ZA REHABILITACIJU SV. FILIP I JAKOV - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 191,
+      "customer_id": "2376",
+      "email": "nabava-centar-za-rehabilita@test.hr",
+      "full_name": "CENTAR ZA REHABILITACIJU SV. FILIP I JAKOV - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 192,
+      "customer_id": "2377",
+      "email": "pekara-veronika@test.hr",
+      "full_name": "PEKARA VERONIKA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 193,
+      "customer_id": "2380",
+      "email": "pekara-prvi@test.hr",
+      "full_name": "PEKARA PRVI� - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 194,
+      "customer_id": "2392",
+      "email": "dom-za-starije-i-nem@test.hr",
+      "full_name": "DOM ZA STARIJE I NEMO�NE OSOBE KONAVLE - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 195,
+      "customer_id": "2410",
+      "email": "djeji-vrti-smilje@test.hr",
+      "full_name": "DJE�JI VRTI� SMILJE - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 196,
+      "customer_id": "2424",
+      "email": "centar-za-rehabilita@test.hr",
+      "full_name": "Centar za rehabilitaciju Josipovac-Mlini - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 197,
+      "customer_id": "2424",
+      "email": "nabava-centar-za-rehabilita@test.hr",
+      "full_name": "Centar za rehabilitaciju Josipovac-Mlini - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 198,
+      "customer_id": "2424",
+      "email": "direktor-centar-za-rehabilita@test.hr",
+      "full_name": "Centar za rehabilitaciju Josipovac-Mlini - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 199,
+      "customer_id": "2433",
+      "email": "obrt-za-ugostiteljst@test.hr",
+      "full_name": "Obrt za ugostiteljstvo WINNY - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 200,
+      "customer_id": "2696",
+      "email": "sol-tourism-doo@test.hr",
+      "full_name": "SOL TOURISM d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 201,
+      "customer_id": "2705",
+      "email": "rafael-j-doo@test.hr",
+      "full_name": "RAFAEL j . d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 202,
+      "customer_id": "2759",
+      "email": "hotel-luka-doo@test.hr",
+      "full_name": "HOTEL LUKA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 203,
+      "customer_id": "2761",
+      "email": "hotels-adriatic-asse@test.hr",
+      "full_name": "Hotels Adriatic Asset Company d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 204,
+      "customer_id": "2761",
+      "email": "nabava-hotels-adriatic-asse@test.hr",
+      "full_name": "Hotels Adriatic Asset Company d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 205,
+      "customer_id": "2772",
+      "email": "tuni-jdoo@test.hr",
+      "full_name": "TUNI� j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 206,
+      "customer_id": "2780",
+      "email": "pekarski-obrt-aureli@test.hr",
+      "full_name": "PEKARSKI OBRT AURELIJA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 207,
+      "customer_id": "2790",
+      "email": "mili-suzi-doo@test.hr",
+      "full_name": "MILI & SUZI d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 208,
+      "customer_id": "2806",
+      "email": "pletenica-doo@test.hr",
+      "full_name": "PLETENICA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 209,
+      "customer_id": "2826",
+      "email": "studentski-centar-ib@test.hr",
+      "full_name": "STUDENTSKI CENTAR �IBENIK - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 210,
+      "customer_id": "2826",
+      "email": "nabava-studentski-centar-ib@test.hr",
+      "full_name": "STUDENTSKI CENTAR �IBENIK - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 211,
+      "customer_id": "2826",
+      "email": "direktor-studentski-centar-ib@test.hr",
+      "full_name": "STUDENTSKI CENTAR �IBENIK - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 212,
+      "customer_id": "2827",
+      "email": "agencija-za-students@test.hr",
+      "full_name": "AGENCIJA ZA STUDENTSKI STANDARD - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 213,
+      "customer_id": "3011",
+      "email": "ptovuleta@test.hr",
+      "full_name": "P.T.O.VULETA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 214,
+      "customer_id": "3041",
+      "email": "uotropic@test.hr",
+      "full_name": "U.O.TROPIC - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 215,
+      "customer_id": "3042",
+      "email": "pekarna-ljubi-jdoo@test.hr",
+      "full_name": "PEKARNA LJUBI� j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 216,
+      "customer_id": "3055",
+      "email": "kroni-pekara-jdoo@test.hr",
+      "full_name": "KRONI PEKARA j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 217,
+      "customer_id": "3055",
+      "email": "nabava-kroni-pekara-jdoo@test.hr",
+      "full_name": "KRONI PEKARA j.d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 218,
+      "customer_id": "3060",
+      "email": "cor-aureum@test.hr",
+      "full_name": "COR AUREUM - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 219,
+      "customer_id": "3063",
+      "email": "zadar-dalmatinka-doo@test.hr",
+      "full_name": "ZADAR DALMATINKA  d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 220,
+      "customer_id": "3107",
+      "email": "pekarnica-galeb@test.hr",
+      "full_name": "PEKARNICA GALEB - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 221,
+      "customer_id": "3110",
+      "email": "hajduk-iobrt-za-ugos@test.hr",
+      "full_name": "HAJDUK I,obrt za ugostiteljstvo,vl.Bujar Ramadani - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 222,
+      "customer_id": "3117",
+      "email": "srednja-kola-bol@test.hr",
+      "full_name": "SREDNJA �KOLA BOL - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 223,
+      "customer_id": "3117",
+      "email": "nabava-srednja-kola-bol@test.hr",
+      "full_name": "SREDNJA �KOLA BOL - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 224,
+      "customer_id": "3117",
+      "email": "direktor-srednja-kola-bol@test.hr",
+      "full_name": "SREDNJA �KOLA BOL - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 225,
+      "customer_id": "3118",
+      "email": "osnovna-kola-njanpaz@test.hr",
+      "full_name": "OSNOVNA �KOLA �NJAN-PAZDIGRAD - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 226,
+      "customer_id": "3144",
+      "email": "non-stop-obrt-za-pro@test.hr",
+      "full_name": "NON STOP  obrt za proiz. i trgovinu - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 227,
+      "customer_id": "3146",
+      "email": "pekara-sukoan-doo@test.hr",
+      "full_name": "PEKARA SUKO�AN d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 228,
+      "customer_id": "3150",
+      "email": "pekara-tromilja@test.hr",
+      "full_name": "PEKARA TROMILJA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 229,
+      "customer_id": "3175",
+      "email": "pekara-sebastijan-do@test.hr",
+      "full_name": "PEKARA SEBASTIJAN d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 230,
+      "customer_id": "3175",
+      "email": "nabava-pekara-sebastijan-do@test.hr",
+      "full_name": "PEKARA SEBASTIJAN d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 231,
+      "customer_id": "3213",
+      "email": "imperial-riviera-dd@test.hr",
+      "full_name": "IMPERIAL RIVIERA d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 232,
+      "customer_id": "3214",
+      "email": "pekara-novalja@test.hr",
+      "full_name": "PEKARA NOVALJA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 233,
+      "customer_id": "3218",
+      "email": "ugostiteljski-obrt-m@test.hr",
+      "full_name": "UGOSTITELJSKI OBRT MONET - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 234,
+      "customer_id": "3336",
+      "email": "o-brda@test.hr",
+      "full_name": "O.�. BRDA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 235,
+      "customer_id": "3365",
+      "email": "pekara-vedrana@test.hr",
+      "full_name": "PEKARA VEDRANA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 236,
+      "customer_id": "3365",
+      "email": "nabava-pekara-vedrana@test.hr",
+      "full_name": "PEKARA VEDRANA - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 237,
+      "customer_id": "3365",
+      "email": "direktor-pekara-vedrana@test.hr",
+      "full_name": "PEKARA VEDRANA - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 238,
+      "customer_id": "3366",
+      "email": "select-food-doo@test.hr",
+      "full_name": "SELECT FOOD d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 239,
+      "customer_id": "3393",
+      "email": "sunce-hoteli-dd@test.hr",
+      "full_name": "SUNCE HOTELI d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 240,
+      "customer_id": "3401",
+      "email": "pekara-klas-iii@test.hr",
+      "full_name": "PEKARA KLAS III - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 241,
+      "customer_id": "3402",
+      "email": "valamar-riviera-dd@test.hr",
+      "full_name": "VALAMAR RIVIERA d.d. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 242,
+      "customer_id": "3418",
+      "email": "jozef-i-anton-jdoo@test.hr",
+      "full_name": "JOZEF I ANTON j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 243,
+      "customer_id": "3418",
+      "email": "nabava-jozef-i-anton-jdoo@test.hr",
+      "full_name": "JOZEF I ANTON j.d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 244,
+      "customer_id": "3422",
+      "email": "lamour-jdoo@test.hr",
+      "full_name": "L'AMOUR j.d.o.o - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 245,
+      "customer_id": "3426",
+      "email": "europan-doo@test.hr",
+      "full_name": "EUROPAN d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 246,
+      "customer_id": "3450",
+      "email": "orion-grupa-doo@test.hr",
+      "full_name": "ORION GRUPA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 247,
+      "customer_id": "3453",
+      "email": "jadranka-obrt-za-trg@test.hr",
+      "full_name": "JADRANKA Obrt za trgovinu - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 248,
+      "customer_id": "3458",
+      "email": "o-smiljevac@test.hr",
+      "full_name": "O� SMILJEVAC - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 249,
+      "customer_id": "3458",
+      "email": "nabava-o-smiljevac@test.hr",
+      "full_name": "O� SMILJEVAC - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 250,
+      "customer_id": "3458",
+      "email": "direktor-o-smiljevac@test.hr",
+      "full_name": "O� SMILJEVAC - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 251,
+      "customer_id": "3461",
+      "email": "pekarsko-ugostobrt-p@test.hr",
+      "full_name": "PEKARSKO UGOST.OBRT PIROVAC - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 252,
+      "customer_id": "3465",
+      "email": "hotel-ola-doo@test.hr",
+      "full_name": "HOTEL OLA d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 253,
+      "customer_id": "3468",
+      "email": "tradicijaobrt-za-ugo@test.hr",
+      "full_name": "TRADICIJA-OBRT ZA UGOSTITELJSTVO - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 254,
+      "customer_id": "3478",
+      "email": "vila-mario@test.hr",
+      "full_name": "VILA MARIO - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 255,
+      "customer_id": "3481",
+      "email": "obrt-pekara-elena@test.hr",
+      "full_name": "OBRT PEKARA ELENA - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 256,
+      "customer_id": "3481",
+      "email": "nabava-obrt-pekara-elena@test.hr",
+      "full_name": "OBRT PEKARA ELENA - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 257,
+      "customer_id": "3483",
+      "email": "ari-bakery-jdoo@test.hr",
+      "full_name": "ARI BAKERY j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 258,
+      "customer_id": "3487",
+      "email": "pekarna-jadran@test.hr",
+      "full_name": "PEKARNA JADRAN - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 259,
+      "customer_id": "3488",
+      "email": "lazar-pekarna-jdoo@test.hr",
+      "full_name": "LAZAR PEKARNA j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 260,
+      "customer_id": "3494",
+      "email": "asap-adriatic-doo@test.hr",
+      "full_name": "ASAP ADRIATIC d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 261,
+      "customer_id": "3498",
+      "email": "vanilla-brioche-jdoo@test.hr",
+      "full_name": "VANILLA BRIOCHE j.d.o.o. - Glavni kontakt",
+      "is_primary": true,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 262,
+      "customer_id": "3498",
+      "email": "nabava-vanilla-brioche-jdoo@test.hr",
+      "full_name": "VANILLA BRIOCHE j.d.o.o. - Nabava",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    },
+    {
+      "id": 263,
+      "customer_id": "3498",
+      "email": "direktor-vanilla-brioche-jdoo@test.hr",
+      "full_name": "VANILLA BRIOCHE j.d.o.o. - Direktor",
+      "is_primary": false,
+      "is_active": true,
+      "created_at": "2025-08-13T09:49:30.239Z",
+      "updated_at": "2025-08-13T09:49:30.239Z"
+    }
+  ]
+}

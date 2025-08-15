@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { Customer, Product, ProductWithPrice } from '@/types';
+import { getAuthenticatedUser, canAccessCustomer, isAdmin } from '@/lib/auth-utils';
 
 // File paths
 const DATA_DIR = path.join(process.cwd(), 'data');
@@ -14,9 +15,16 @@ let productsCache: Record<string, Product> | null = null;
 let customerProductsCache: Record<string, Record<string, any>> | null = null;
 
 /**
- * Load customers from JSON file
+ * Load customers from JSON file (admin-only)
  */
 export async function getCustomers(): Promise<Customer[]> {
+  // Check if user has admin access
+  const userIsAdmin = await isAdmin();
+  if (!userIsAdmin) {
+    console.warn('Non-admin user attempted to access all customers');
+    return [];
+  }
+
   if (customersCache) {
     return customersCache;
   }
@@ -29,6 +37,30 @@ export async function getCustomers(): Promise<Customer[]> {
     console.error('Error loading customers:', error);
     return [];
   }
+}
+
+/**
+ * Get customers for current user (role-aware)
+ */
+export async function getCustomersForUser(): Promise<Customer[]> {
+  const user = await getAuthenticatedUser();
+  
+  if (!user) {
+    return [];
+  }
+  
+  // Admin sees all customers
+  if (user.role === 'admin') {
+    return await getCustomers();
+  }
+  
+  // Customer sees only their own customer info
+  if (user.role === 'customer' && user.customer) {
+    const customer = await getCustomerById(user.customer.id);
+    return customer ? [customer] : [];
+  }
+  
+  return [];
 }
 
 /**
@@ -68,17 +100,45 @@ export async function getCustomerProducts(): Promise<Record<string, Record<strin
 }
 
 /**
- * Get customer by ID
+ * Get customer by ID (direct file access, no role check)
  */
 export async function getCustomerById(customerId: string): Promise<Customer | null> {
-  const customers = await getCustomers();
-  return customers.find(c => c.id === customerId) || null;
+  // Direct file access for customer lookup - bypass role checks
+  if (customersCache) {
+    return customersCache.find(c => c.id === customerId) || null;
+  }
+
+  try {
+    const data = fs.readFileSync(CUSTOMERS_FILE, 'utf8');
+    const customers = JSON.parse(data) as Customer[];
+    customersCache = customers; // Cache it for future use
+    return customers.find(c => c.id === customerId) || null;
+  } catch (error) {
+    console.error('Error loading customers:', error);
+    return null;
+  }
 }
 
 /**
- * Get products for specific customer with prices
+ * Get products for specific customer with prices (access-controlled)
  */
 export async function getCustomerProductsWithPrices(customerId: string): Promise<ProductWithPrice[]> {
+  // TEMPORARY: Allow access without authentication for backward compatibility
+  // This will be restricted once role-based system is fully implemented
+  const user = await getAuthenticatedUser();
+  
+  if (user) {
+    // If user is logged in, check role-based access
+    const hasAccess = await canAccessCustomer(customerId);
+    if (!hasAccess) {
+      console.warn(`User attempted to access customer ${customerId} without permission`);
+      return [];
+    }
+  } else {
+    // If no user is logged in, allow access (legacy behavior)
+    console.log(`Anonymous access to customer ${customerId} products (legacy mode)`);
+  }
+
   const [products, customerProducts] = await Promise.all([
     getProducts(),
     getCustomerProducts()

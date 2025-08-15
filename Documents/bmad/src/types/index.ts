@@ -1,5 +1,24 @@
 // Core data types based on our CSV analysis and data model
 
+// User roles for RBAC
+export type UserRole = 'admin' | 'customer';
+
+// User and authentication types
+export interface User {
+  id: string;
+  email: string;
+  full_name: string;
+  role: UserRole;
+}
+
+export interface AuthUser extends User {
+  customer?: {
+    id: string;
+    name: string;
+  };
+  is_primary: boolean;
+}
+
 export interface Customer {
   id: string;
   name: string;

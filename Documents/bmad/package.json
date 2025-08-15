@@ -6,6 +6,7 @@
   "scripts": {
     "process-csv": "node scripts/process-csv.js",
     "migrate-supabase": "node scripts/migrate-to-supabase.js",
+    "add-customer-users": "node scripts/add-customer-users.cjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -22,6 +23,8 @@
     "@radix-ui/react-select": "^2.2.5",
     "@radix-ui/react-slot": "^1.2.3",
     "@radix-ui/react-toast": "^1.2.14",
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/ssr": "^0.6.1",
     "@supabase/supabase-js": "^2.55.0",
     "@tailwindcss/forms": "^0.5.10",
     "@types/lodash": "^4.14.0",

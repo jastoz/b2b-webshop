@@ -1,8 +1,8 @@
 import CustomerSelectClient from '@/components/CustomerSelectClient';
-import { getCustomers } from '@/lib/data';
+import { getCustomersForUser } from '@/lib/data';
 
 export default async function CustomerSelectPage() {
-  const customers = await getCustomers();
+  const customers = await getCustomersForUser();
 
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">

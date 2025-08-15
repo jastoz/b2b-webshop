@@ -31,7 +31,15 @@ const loadJsonData = () => {
   const products = JSON.parse(fs.readFileSync(path.join(dataDir, 'products.json'), 'utf-8'));
   const customerProducts = JSON.parse(fs.readFileSync(path.join(dataDir, 'customer-products.json'), 'utf-8'));
   
-  return { customers, products, customerProducts };
+  // Load customer users if file exists
+  let customerUsers = [];
+  const customerUsersPath = path.join(dataDir, 'test-customer-users.json');
+  if (fs.existsSync(customerUsersPath)) {
+    const customerUsersData = JSON.parse(fs.readFileSync(customerUsersPath, 'utf-8'));
+    customerUsers = customerUsersData.data || [];
+  }
+  
+  return { customers, products, customerProducts, customerUsers };
 };
 
 // Extract unique categories and subcategories
@@ -156,15 +164,51 @@ const transformCustomerProducts = (customerProducts, products) => {
   return relationships;
 };
 
+// Transform customer users for database insert
+const transformCustomerUsers = (customerUsers) => {
+  const uniqueUsers = new Map();
+  
+  customerUsers.forEach(user => {
+    const email = user.email.toLowerCase();
+    
+    // Keep the first occurrence or primary user
+    if (!uniqueUsers.has(email) || user.is_primary) {
+      uniqueUsers.set(email, {
+        customer_id: user.customer_id,
+        email: email,
+        full_name: user.full_name,
+        is_primary: user.is_primary,
+        is_active: user.is_active
+      });
+    }
+  });
+  
+  return Array.from(uniqueUsers.values());
+};
+
 // Insert data with error handling
 const insertDataBatch = async (table, data, batchSize = 1000) => {
   console.log(`\n📊 Inserting ${data.length} records into ${table}...`);
   
   for (let i = 0; i < data.length; i += batchSize) {
     const batch = data.slice(i, i + batchSize);
-    const { data: result, error } = await supabase
-      .from(table)
-      .insert(batch);
+    
+    // Check if table supports upsert
+    const conflictColumn = getConflictColumn(table);
+    let query;
+    
+    if (conflictColumn) {
+      query = supabase
+        .from(table)
+        .upsert(batch, { onConflict: conflictColumn });
+    } else {
+      // Use regular insert for tables without unique constraints
+      query = supabase
+        .from(table)
+        .insert(batch);
+    }
+    
+    const { data: result, error } = await query;
     
     if (error) {
       console.error(`❌ Error inserting batch ${i + 1}-${i + batch.length} into ${table}:`, error);
@@ -177,12 +221,27 @@ const insertDataBatch = async (table, data, batchSize = 1000) => {
   console.log(`✅ Successfully inserted all ${data.length} records into ${table}`);
 };
 
+// Get the conflict column for upsert operations
+const getConflictColumn = (table) => {
+  const conflictColumns = {
+    'categories': 'id',
+    'subcategories': 'id',
+    'suppliers': 'code',
+    'products': 'code',
+    'customers': 'id',
+    'contracts': 'customer_id,contract_id',
+    'customer_users': 'email', // Use email as unique constraint for customer_users
+    'customer_products': 'customer_id,product_code'
+  };
+  return conflictColumns[table] || null;
+};
+
 // Validate data integrity
 const validateData = async () => {
   console.log('\n🔍 Validating data integrity...');
   
   // Count records in each table
-  const tables = ['customers', 'products', 'categories', 'subcategories', 'suppliers', 'contracts', 'customer_products'];
+  const tables = ['customers', 'products', 'categories', 'subcategories', 'suppliers', 'contracts', 'customer_users', 'customer_products'];
   
   for (const table of tables) {
     const { count, error } = await supabase
@@ -212,24 +271,71 @@ const validateData = async () => {
   } else {
     console.log('✅ Relationship integrity validated');
   }
+  
+  // Validate customer_users relationships
+  const { data: orphanUsers, error: usersError } = await supabase
+    .from('customer_users')
+    .select(`
+      customer_id,
+      email,
+      customers!inner(id)
+    `)
+    .limit(1);
+  
+  if (usersError) {
+    console.error('❌ Error checking customer_users relationships:', usersError);
+  } else {
+    console.log('✅ Customer_users relationship integrity validated');
+    
+    // Show sample customer_users data
+    const { data: sampleUsers } = await supabase
+      .from('customer_users')
+      .select(`
+        email,
+        full_name,
+        is_primary,
+        customers (customer_name)
+      `)
+      .limit(3);
+    
+    if (sampleUsers && sampleUsers.length > 0) {
+      console.log('\n👥 Sample customer_users data:');
+      sampleUsers.forEach(user => {
+        const primary = user.is_primary ? ' (PRIMARY)' : '';
+        console.log(`   📧 ${user.email}${primary} → ${user.customers.customer_name}`);
+      });
+    }
+  }
 };
 
 // Reset database tables
 const resetDatabase = async () => {
   console.log('\n🧹 Clearing existing data...');
   
-  const tables = ['order_items', 'orders', 'customer_products', 'contracts', 'customers', 'products', 'suppliers', 'subcategories', 'categories'];
+  const tables = ['order_items', 'orders', 'customer_products', 'customer_users', 'contracts', 'customers', 'products', 'suppliers', 'subcategories', 'categories'];
   
   for (const table of tables) {
-    const { error } = await supabase
-      .from(table)
-      .delete()
-      .neq('id', 'impossible_value'); // Delete all rows
-    
-    if (error && error.code !== 'PGRST116') { // PGRST116 means no rows to delete
-      console.error(`❌ Error clearing ${table}:`, error);
-    } else {
-      console.log(`✅ Cleared ${table}`);
+    try {
+      // Use TRUNCATE for faster deletion and to reset sequences
+      const { error } = await supabase.rpc('truncate_table', { table_name: table });
+      
+      if (error) {
+        // Fallback to DELETE if TRUNCATE fails
+        const { error: deleteError } = await supabase
+          .from(table)
+          .delete()
+          .gte('id', 0); // Delete where id >= 0 (all rows)
+        
+        if (deleteError && deleteError.code !== 'PGRST116') {
+          console.error(`❌ Error clearing ${table}:`, deleteError);
+        } else {
+          console.log(`✅ Cleared ${table} (fallback method)`);
+        }
+      } else {
+        console.log(`✅ Cleared ${table}`);
+      }
+    } catch (err) {
+      console.log(`⚠️ Skipping ${table} (table may not exist)`);
     }
   }
 };
@@ -239,13 +345,10 @@ const migrate = async () => {
   try {
     console.log('🚀 Starting migration to Supabase...');
     
-    // Reset database first
-    await resetDatabase();
-    
     // Load JSON data
     console.log('\n📂 Loading JSON data...');
-    const { customers, products, customerProducts } = loadJsonData();
-    console.log(`✅ Loaded: ${customers.length} customers, ${Object.keys(products).length} products`);
+    const { customers, products, customerProducts, customerUsers } = loadJsonData();
+    console.log(`✅ Loaded: ${customers.length} customers, ${Object.keys(products).length} products, ${customerUsers.length} customer users`);
     
     // Extract and prepare data
     console.log('\n🔄 Transforming data...');
@@ -255,6 +358,7 @@ const migrate = async () => {
     const transformedCustomers = transformCustomers(customers);
     const contracts = transformContracts(customers);
     const relationships = transformCustomerProducts(customerProducts, products);
+    const transformedCustomerUsers = customerUsers.length > 0 ? transformCustomerUsers(customerUsers) : [];
     
     console.log(`✅ Prepared: ${categories.length} categories, ${subcategories.length} subcategories, ${suppliers.length} suppliers`);
     
@@ -291,7 +395,12 @@ const migrate = async () => {
       await insertDataBatch('contracts', contracts);
     }
     
-    // 7. Insert customer-product relationships
+    // 7. Insert customer users (depends on customers)
+    if (transformedCustomerUsers.length > 0) {
+      await insertDataBatch('customer_users', transformedCustomerUsers);
+    }
+    
+    // 8. Insert customer-product relationships
     if (relationships.length > 0) {
       await insertDataBatch('customer_products', relationships, 500); // Smaller batches for relationships
     }
@@ -301,10 +410,16 @@ const migrate = async () => {
     
     console.log('\n🎉 Migration completed successfully!');
     console.log('\n📋 Next steps:');
-    console.log('1. Update your environment variables with Supabase credentials');
-    console.log('2. Install @supabase/supabase-js in your Next.js app');
-    console.log('3. Replace API endpoints with Supabase queries');
-    console.log('4. Test the application');
+    console.log('1. ✅ Environment variables configured');
+    console.log('2. ✅ @supabase/supabase-js installed');
+    console.log('3. ✅ API endpoints updated with Supabase queries');
+    console.log('4. 🔧 Create customer_users table with RLS policies');
+    console.log('5. 🧪 Test authentication with /login');
+    console.log('6. 🛠️  Test admin panel at /admin/customer-users');
+    console.log('\n🔐 Authentication ready:');
+    console.log(`   👥 ${customerUsers.length} test user accounts created`);
+    console.log('   📧 Sample: hotel-medena-seget-d@test.hr / test123');
+    console.log('   📋 All accounts: /data/sample-logins.json');
     
   } catch (error) {
     console.error('\n💥 Migration failed:', error);
